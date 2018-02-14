@@ -1,0 +1,3194 @@
+{
+  "kind": "Listing",
+  "data": {
+    "after": "t3_7xb48w",
+    "dist": 27,
+    "modhash": "85bn3s7y083d45d8b9d1467954acabe497133612a80c09693e",
+    "whitelist_status": "all_ads",
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "self.ProgrammerHumor",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": null,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html":
+            "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hello world!&lt;/p&gt;\n\n&lt;p&gt;Over the past few weeks, we have found a lot of posts that violate the rules of the sub and some even became quite popular. What people fail to understand is that this a sub for things that only programmers would find humorous, not things that are funny because it happened to a programmer or was done by a programmer.&lt;/p&gt;\n\n&lt;p&gt;We would like to clarify some of the rules since we have received a lot of posts violating these recently:&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;&lt;p&gt;About rule 0 - This rule essentially says that if you post is an image, the image itself should be about programming, not the caption, super-imposed text or the title of the post. For a post to be considered on basis of the text, there needs to be enough text such that the image is just for formatting or emphasis. So, memes like Distracted Boyfriend are not allowed regardless of the text is but Expanding Brain is allowed as long as text is programming related. See &lt;a href=\"https://www.reddit.com/r/ProgrammerHumor/comments/6jo5xq/meme_monday_1_20170626/dji05v6/?st=j6y9pftm&amp;amp;sh=ae3cbe9e\"&gt;this&lt;/a&gt; for more reasons on why certain memes are allowed. The sidebar also has further links explaining why this rule exists. Also, rule[0][1] is for posts that are images which are similar to some programming tool or concept (like places called Vim, elevator buttons as arrays, 404 in the wild etc.) and the title just explains that. It is not meant for images where the analogy is forced purely through the superimposed text or title.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;a href=\"/r/softwaregore\"&gt;r/softwaregore&lt;/a&gt; posts - While there is a significant overlap in the audience of the two subs, there is not much overlap in the content. Posts like NaN/null instead of values, JavaScript leaking into emails, error messages from apps, etc. belong only on &lt;a href=\"/r/softwaregore\"&gt;r/softwaregore&lt;/a&gt;. The only two cases where they may be allowed here is if the software involved is primarily used by programmers (IDEs, version control software, etc.) or the error message is funny or ironic. This sub is about humor while building software, not while using it.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Bad UI posts - Related to the above, for a post to qualify as Bad UI, it needs to be OC, preferably with source code in the comments. Bad UI found in the wild also belongs on &lt;a href=\"/r/softwaregore\"&gt;r/softwaregore&lt;/a&gt; including password fields with weird rules, using a check box instead of radio buttons, etc. Exceptions may be made for some really over the top bad UI found in the wild, but don&amp;#39;t count on it. Again, this sub is about humor while building software.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;JavaScript and other language wat-ness - If OP failed to understand some standard that the language has implemented, s/he will be humiliated. Seriously, fact check stuff before posting it here.&lt;/p&gt;&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;The rationale is that we want actual programmer humor to be the majority of the content in this sub, not low-effort posts which are better suited in other subs and mask actual programmer humor. Running gags and meta-posts are still fine since no one outside of this sub is likely to understand them. Some other subs that you might want to check out for memes and such are &lt;a href=\"/r/programme_irl\"&gt;r/programme_irl&lt;/a&gt;, &lt;a href=\"/r/programmerreactions\"&gt;r/programmerreactions&lt;/a&gt;, &lt;a href=\"/r/prgmrshowerthoughts\"&gt;r/prgmrshowerthoughts&lt;/a&gt;, &lt;a href=\"/r/ProgrammerDadJokes\"&gt;r/ProgrammerDadJokes&lt;/a&gt; and &lt;a href=\"/r/techhumor\"&gt;r/techhumor&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;TL;DR - No image macros unless they follow &lt;a href=\"https://www.reddit.com/r/ProgrammerHumor/comments/6jo5xq/meme_monday_1_20170626/dji05v6/?st=j6y9pftm&amp;amp;sh=ae3cbe9e\"&gt;these&lt;/a&gt; rules and no error messages, shitty password requirements or NaN/null on the website posts.&lt;/p&gt;\n\n&lt;p&gt;Feedback is welcome.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "selftext":
+            "Hello world!\n\nOver the past few weeks, we have found a lot of posts that violate the rules of the sub and some even became quite popular. What people fail to understand is that this a sub for things that only programmers would find humorous, not things that are funny because it happened to a programmer or was done by a programmer.\n\nWe would like to clarify some of the rules since we have received a lot of posts violating these recently:\n\n0. About rule 0 - This rule essentially says that if you post is an image, the image itself should be about programming, not the caption, super-imposed text or the title of the post. For a post to be considered on basis of the text, there needs to be enough text such that the image is just for formatting or emphasis. So, memes like Distracted Boyfriend are not allowed regardless of the text is but Expanding Brain is allowed as long as text is programming related. See [this](https://www.reddit.com/r/ProgrammerHumor/comments/6jo5xq/meme_monday_1_20170626/dji05v6/?st=j6y9pftm&amp;sh=ae3cbe9e) for more reasons on why certain memes are allowed. The sidebar also has further links explaining why this rule exists. Also, rule[0][1] is for posts that are images which are similar to some programming tool or concept (like places called Vim, elevator buttons as arrays, 404 in the wild etc.) and the title just explains that. It is not meant for images where the analogy is forced purely through the superimposed text or title.\n\n1. r/softwaregore posts - While there is a significant overlap in the audience of the two subs, there is not much overlap in the content. Posts like NaN/null instead of values, JavaScript leaking into emails, error messages from apps, etc. belong only on r/softwaregore. The only two cases where they may be allowed here is if the software involved is primarily used by programmers (IDEs, version control software, etc.) or the error message is funny or ironic. This sub is about humor while building software, not while using it.\n\n2. Bad UI posts - Related to the above, for a post to qualify as Bad UI, it needs to be OC, preferably with source code in the comments. Bad UI found in the wild also belongs on r/softwaregore including password fields with weird rules, using a check box instead of radio buttons, etc. Exceptions may be made for some really over the top bad UI found in the wild, but don't count on it. Again, this sub is about humor while building software.\n\n3. JavaScript and other language wat-ness - If OP failed to understand some standard that the language has implemented, s/he will be humiliated. Seriously, fact check stuff before posting it here.\n\nThe rationale is that we want actual programmer humor to be the majority of the content in this sub, not low-effort posts which are better suited in other subs and mask actual programmer humor. Running gags and meta-posts are still fine since no one outside of this sub is likely to understand them. Some other subs that you might want to check out for memes and such are r/programme_irl, r/programmerreactions, r/prgmrshowerthoughts, r/ProgrammerDadJokes and r/techhumor.\n\nTL;DR - No image macros unless they follow [these](https://www.reddit.com/r/ProgrammerHumor/comments/6jo5xq/meme_monday_1_20170626/dji05v6/?st=j6y9pftm&amp;sh=ae3cbe9e) rules and no error messages, shitty password requirements or NaN/null on the website posts.\n\nFeedback is welcome.",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": null,
+          "id": "6y2b47",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "munirc",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 736,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "thumbnail": "self",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": "ult",
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "author_flair_text": "Ultraviolent security clearance",
+          "stickied": true,
+          "can_gild": true,
+          "thumbnail_height": null,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_6y2b47",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/6y2b47/meta_clarification_on_rules/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1504579845.0,
+          "url":
+            "https://www.reddit.com/r/ProgrammerHumor/comments/6y2b47/meta_clarification_on_rules/",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "[Meta] Clarification on rules",
+          "created_utc": 1504551045.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 736,
+          "media": null,
+          "num_comments": 87,
+          "is_self": true,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": "moderator"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "self.ProgrammerHumor",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": null,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html":
+            "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;For a while now, we have been receiving feedback that rule 0 is a quite subjective and is also a little strict. We do agree that there is some need to revise the rule. However, we also do not want to open the floodgates to low effort posts. So, we have decided to change the rule[0][1] as a compromise to allow original and creative use of memes.&lt;/p&gt;\n\n&lt;p&gt;Also, we will be rule[0][2] to disallow software gore and power user humor. We still see a lot of submissions which are about being a power user rather than a programmer or just UI with errors in it.&lt;/p&gt;\n\n&lt;p&gt;The update rule[0] will be:&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;For a submission to qualify it must satisfy at least one of the following: &lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;The content disregarding the title and superimposed text must be directly related to programming or programmers. Non-programming tech humor (e.g. being a power user, jokes about software not related to programming, etc.) is not allowed.&lt;/li&gt;\n&lt;li&gt;The image along with the title and superimposed text result in creative and original content. &lt;/li&gt;\n&lt;li&gt;The post is a program or UI designed intentionally for humor. Bad UI found in the wild belongs in &lt;a href=\"/r/softwaregore\"&gt;/r/softwaregore&lt;/a&gt;.&lt;/li&gt;\n&lt;/ol&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;So, using a &lt;strong&gt;meme for the circlejerks that are part of this sub will NOT be allowed&lt;/strong&gt;, but coming up with a meme for a current programming related event or something which is not a common topic in the sub will be allowed. Even for those, altering only the superimposed text or title of a meme is not allowed. There must be additional context along with the meme.&lt;/p&gt;\n\n&lt;p&gt;Posts where an unrelated gif/image is made relevant to programming using only the title will not be allowed either since it is not original. Such posts usually belong on &lt;a href=\"/r/programmerreactions\"&gt;r/programmerreactions&lt;/a&gt; or &lt;a href=\"/r/programme_irl\"&gt;r/programme_irl&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;For Bad UI posts, it needs to be OC and should be designed for humor. It cannot be a screenshot of an error message or poorly designed UI found somewhere. So, the Hawaii missile jokes are fine but a website with NaN instead of a number is not allowed.&lt;/p&gt;\n\n&lt;p&gt;The main goal here is to stop the sub from being flooded with low effort, generic use of memes. This is also a more objective definition of what kind of memes are allowed and reduce some of the incosistency of the current rules.&lt;/p&gt;\n\n&lt;p&gt;The other rules will stay as they are. No rehosting or hotlinking regardless of the license of the blog/comic, unless you are the author.&lt;/p&gt;\n\n&lt;p&gt;Any feedback is welcome.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "selftext":
+            "For a while now, we have been receiving feedback that rule 0 is a quite subjective and is also a little strict. We do agree that there is some need to revise the rule. However, we also do not want to open the floodgates to low effort posts. So, we have decided to change the rule[0][1] as a compromise to allow original and creative use of memes.\n\nAlso, we will be rule[0][2] to disallow software gore and power user humor. We still see a lot of submissions which are about being a power user rather than a programmer or just UI with errors in it.\n\nThe update rule[0] will be:\n\n&gt; For a submission to qualify it must satisfy at least one of the following: \n\n&gt; 0. The content disregarding the title and superimposed text must be directly related to programming or programmers. Non-programming tech humor (e.g. being a power user, jokes about software not related to programming, etc.) is not allowed.\n&gt; 1. The image along with the title and superimposed text result in creative and original content. \n&gt; 2. The post is a program or UI designed intentionally for humor. Bad UI found in the wild belongs in /r/softwaregore.\n\nSo, using a **meme for the circlejerks that are part of this sub will NOT be allowed**, but coming up with a meme for a current programming related event or something which is not a common topic in the sub will be allowed. Even for those, altering only the superimposed text or title of a meme is not allowed. There must be additional context along with the meme.\n\nPosts where an unrelated gif/image is made relevant to programming using only the title will not be allowed either since it is not original. Such posts usually belong on r/programmerreactions or r/programme_irl.\n\nFor Bad UI posts, it needs to be OC and should be designed for humor. It cannot be a screenshot of an error message or poorly designed UI found somewhere. So, the Hawaii missile jokes are fine but a website with NaN instead of a number is not allowed.\n\nThe main goal here is to stop the sub from being flooded with low effort, generic use of memes. This is also a more objective definition of what kind of memes are allowed and reduce some of the incosistency of the current rules.\n\nThe other rules will stay as they are. No rehosting or hotlinking regardless of the license of the blog/comic, unless you are the author.\n\nAny feedback is welcome.",
+          "likes": null,
+          "suggested_sort": "new",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": null,
+          "id": "7te52z",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "munirc",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 130,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "thumbnail": "self",
+          "edited": 1517159251.0,
+          "link_flair_css_class": null,
+          "author_flair_css_class": "ult",
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "author_flair_text": "Ultraviolent security clearance",
+          "stickied": true,
+          "can_gild": true,
+          "thumbnail_height": null,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7te52z",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7te52z/meta_proposed_update_to_rules/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1517103240.0,
+          "url":
+            "https://www.reddit.com/r/ProgrammerHumor/comments/7te52z/meta_proposed_update_to_rules/",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "[META] Proposed update to rules",
+          "created_utc": 1517074440.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 130,
+          "media": null,
+          "num_comments": 34,
+          "is_self": true,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": "moderator"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.imgur.com",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": null,
+          "id": "7xhy6q",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "MadnessDude",
+          "num_crossposts": 1,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 3926,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/E9uirFZGh84HNc9jFQVMDGO7iNUXAswGtDXQVCpNiKg.jpg?fm=jpg&amp;s=94bebc56a11992197cfd5fff5926f520",
+                  "width": 499,
+                  "height": 645
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/E9uirFZGh84HNc9jFQVMDGO7iNUXAswGtDXQVCpNiKg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=11050ca36b90244dd95b36dcb5deb27c",
+                    "width": 108,
+                    "height": 139
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/E9uirFZGh84HNc9jFQVMDGO7iNUXAswGtDXQVCpNiKg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=175482b59ced3243e8d6c54123101b5a",
+                    "width": 216,
+                    "height": 279
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/E9uirFZGh84HNc9jFQVMDGO7iNUXAswGtDXQVCpNiKg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=09cb272cb447e76887aa3fd45cd8a1c2",
+                    "width": 320,
+                    "height": 413
+                  }
+                ],
+                "variants": {},
+                "id": "5lM7A68c_pJLAG1TA3xD2BDtipKdRMf1-M-qfNksC0o"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/oyz36ye_UEryEDCtjfXIGWHp0mmQxZBIKtrgIo3-T4o.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xhy6q",
+          "spoiler": false,
+          "permalink": "/r/ProgrammerHumor/comments/7xhy6q/test_environment/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518643436.0,
+          "url": "https://i.imgur.com/nGfbQHz.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Test environment?",
+          "created_utc": 1518614636.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 3926,
+          "media": null,
+          "num_comments": 106,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xia7y",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "thesavagecheese",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 1184,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/aLkWYbxZtmU8ZiYtANXY62Jz82WcJe0G27usdhyV_Xg.jpg?fm=jpg&amp;s=96b0aa6a1060b40cff689499d5c849d7",
+                  "width": 1020,
+                  "height": 918
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/aLkWYbxZtmU8ZiYtANXY62Jz82WcJe0G27usdhyV_Xg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=45ab7176a41e88864b5b15d216d5f0cb",
+                    "width": 108,
+                    "height": 97
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/aLkWYbxZtmU8ZiYtANXY62Jz82WcJe0G27usdhyV_Xg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=9719ff67eb3881b2c023ce4e5589d25c",
+                    "width": 216,
+                    "height": 194
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/aLkWYbxZtmU8ZiYtANXY62Jz82WcJe0G27usdhyV_Xg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=1546af05862652d744eb4735e7d8d6d8",
+                    "width": 320,
+                    "height": 288
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/aLkWYbxZtmU8ZiYtANXY62Jz82WcJe0G27usdhyV_Xg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=493cbb8ea012152be84eb88c25dd1035",
+                    "width": 640,
+                    "height": 576
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/aLkWYbxZtmU8ZiYtANXY62Jz82WcJe0G27usdhyV_Xg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=e6743181355640daf22452e20e0b774e",
+                    "width": 960,
+                    "height": 864
+                  }
+                ],
+                "variants": {},
+                "id": "2REYyMAA-8tC-P9dRNAyTlu1gSnedme_hP5X8D0mfVc"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/0Wqz4EPXu2d1qS2_8CVjNG-M4XPm74NLI9fvsuEVZjM.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 126,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xia7y",
+          "spoiler": false,
+          "permalink": "/r/ProgrammerHumor/comments/7xia7y/import_math/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518646665.0,
+          "url": "https://i.redd.it/1vp8gvy2t6g01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "import math",
+          "created_utc": 1518617865.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 1184,
+          "media": null,
+          "num_comments": 74,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xfkuj",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "ion_",
+          "num_crossposts": 2,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 4472,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/G0bd2VX6B_bM-XXSHOfPWefa0fOG71JdtiJGhaRqpp0.jpg?fm=jpg&amp;s=250daf8c181c9ae44bd8d410bdb692c4",
+                  "width": 600,
+                  "height": 600
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/G0bd2VX6B_bM-XXSHOfPWefa0fOG71JdtiJGhaRqpp0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=d6d9c1a470f2c08f77f39c1ad9e5b344",
+                    "width": 108,
+                    "height": 108
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/G0bd2VX6B_bM-XXSHOfPWefa0fOG71JdtiJGhaRqpp0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=4e26bdc70ed58e3f5bf4b73b73ff364d",
+                    "width": 216,
+                    "height": 216
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/G0bd2VX6B_bM-XXSHOfPWefa0fOG71JdtiJGhaRqpp0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=b2f362651370c33caee2d6eb7cb1d539",
+                    "width": 320,
+                    "height": 320
+                  }
+                ],
+                "variants": {},
+                "id": "WpVykLtqXEQunHdd_GlcfeAI_kcq0GsP_rsyHECYY2Y"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/R0uPdoe80xG-L83wKje--oFfCy8fyAZFEmKguCZnWyk.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xfkuj",
+          "spoiler": false,
+          "permalink": "/r/ProgrammerHumor/comments/7xfkuj/this_valentine/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518612139.0,
+          "url": "https://i.redd.it/yj99byfcy3g01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "This valentine ..",
+          "created_utc": 1518583339.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 4472,
+          "media": null,
+          "num_comments": 61,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xi1n8",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "greatwhitedav",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 510,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/_CXIqnTAa9k7oROuw2QpJcjnFSqZ7AVQYF2Pn3YLp4E.png?fm=jpg&amp;s=f8c869d547e9709736a8d070412a61bc",
+                  "width": 420,
+                  "height": 559
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/_CXIqnTAa9k7oROuw2QpJcjnFSqZ7AVQYF2Pn3YLp4E.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=ae791ea57a25e9940f148f32b6dfda73",
+                    "width": 108,
+                    "height": 143
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/_CXIqnTAa9k7oROuw2QpJcjnFSqZ7AVQYF2Pn3YLp4E.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=fa338fe8d0adf64c47ce0e022cfe5a86",
+                    "width": 216,
+                    "height": 287
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/_CXIqnTAa9k7oROuw2QpJcjnFSqZ7AVQYF2Pn3YLp4E.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=13f49fd5be7beea678fdc045fa32ea88",
+                    "width": 320,
+                    "height": 425
+                  }
+                ],
+                "variants": {},
+                "id": "MPiaU2gc_nHDiZtD9mosqke2Gn11zDx8kRi5BKhj51w"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/LMEt0hxe_TV1dZFGHmG29Jzv8YeVGJsyV_RQWfQ1L5M.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xi1n8",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7xi1n8/hey_at_least_they_tried/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518644405.0,
+          "url": "https://i.redd.it/9mk6u2e2m6g01.png",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Hey, at least they tried",
+          "created_utc": 1518615605.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 510,
+          "media": null,
+          "num_comments": 5,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": "Arrays start at x",
+          "id": "7xik2h",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "ClydeArtemisFrog",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 354,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/2u-CbeJHDanOtnaKm-C3kV68hdy0D7c1EVzXHVh0Vps.jpg?fm=jpg&amp;s=f11358910ca48d7c0f35810e21f2c2a3",
+                  "width": 750,
+                  "height": 383
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/2u-CbeJHDanOtnaKm-C3kV68hdy0D7c1EVzXHVh0Vps.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=24f75e2d20fab00e099d70c2a62bb8c1",
+                    "width": 108,
+                    "height": 55
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/2u-CbeJHDanOtnaKm-C3kV68hdy0D7c1EVzXHVh0Vps.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=7d879a88a09454c8115b646f64571127",
+                    "width": 216,
+                    "height": 110
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/2u-CbeJHDanOtnaKm-C3kV68hdy0D7c1EVzXHVh0Vps.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=c5bad510dd67e945ae510a3f74bf2d72",
+                    "width": 320,
+                    "height": 163
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/2u-CbeJHDanOtnaKm-C3kV68hdy0D7c1EVzXHVh0Vps.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=2a1e0a4d4f70958811523bd6710a43ca",
+                    "width": 640,
+                    "height": 326
+                  }
+                ],
+                "variants": {},
+                "id": "-v57xsgH-rw6WUWHwFNOlzgqmdCwJpbyv7GICE3KSzY"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/cmCeGQ45csxXtXW_SWwDB1lI8FT2D4FtfRh4-9QFa-c.jpg",
+          "edited": false,
+          "link_flair_css_class": "ui",
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 71,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xik2h",
+          "spoiler": false,
+          "permalink": "/r/ProgrammerHumor/comments/7xik2h/google_survey/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518649159.0,
+          "url": "https://i.redd.it/za441ozh07g01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Google Survey",
+          "created_utc": 1518620359.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 354,
+          "media": null,
+          "num_comments": 13,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xh9j8",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "saintik",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 534,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/SFShTY4wA6mxbThuTVUn8p6Y9E7BRmOpPS0n70H8FSE.png?fm=jpg&amp;s=f743948f09281c725514b36ca5fd93ce",
+                  "width": 1063,
+                  "height": 756
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/SFShTY4wA6mxbThuTVUn8p6Y9E7BRmOpPS0n70H8FSE.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=c8b87feedfbf3c0b9f1508182edb291d",
+                    "width": 108,
+                    "height": 76
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/SFShTY4wA6mxbThuTVUn8p6Y9E7BRmOpPS0n70H8FSE.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=ed90cbc12ba240a87b18410fb87d9aa2",
+                    "width": 216,
+                    "height": 153
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/SFShTY4wA6mxbThuTVUn8p6Y9E7BRmOpPS0n70H8FSE.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=6cb77413a4f50a77c500ace11fce3616",
+                    "width": 320,
+                    "height": 227
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/SFShTY4wA6mxbThuTVUn8p6Y9E7BRmOpPS0n70H8FSE.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=7123de180cbfe25a2f95438ce62537c0",
+                    "width": 640,
+                    "height": 455
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/SFShTY4wA6mxbThuTVUn8p6Y9E7BRmOpPS0n70H8FSE.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=1b4494094fd05dd3d03715773d8534f4",
+                    "width": 960,
+                    "height": 682
+                  }
+                ],
+                "variants": {},
+                "id": "cCOGbMdmelZ3DGP9Fox00p9C_CIlxQBP4s7JxzlYVFs"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/pYcILuD2rnXfgWvVCbhYloQ4eIIR-45yEpowwhLU6jE.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 99,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xh9j8",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7xh9j8/this_is_displayed_at_the_huge_tv_in_front_of_the/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518635078.0,
+          "url": "https://i.redd.it/oe3mjw4at5g01.png",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title":
+            "This is displayed at the huge TV. In front of the elevators. On the ground floor of an IT company.",
+          "created_utc": 1518606278.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 534,
+          "media": null,
+          "num_comments": 39,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xb5l9",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "pablostanley",
+          "num_crossposts": 5,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 31863,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/PdxSWka1ucOBlf6qV4bsLdDtle7_X8qgLpgrssC2NWI.jpg?fm=jpg&amp;s=84d9fd46c0f538dc0cd58829d575912b",
+                  "width": 2400,
+                  "height": 2400
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/PdxSWka1ucOBlf6qV4bsLdDtle7_X8qgLpgrssC2NWI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=7873cb706791f1dc60cf0da17f7a8deb",
+                    "width": 108,
+                    "height": 108
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/PdxSWka1ucOBlf6qV4bsLdDtle7_X8qgLpgrssC2NWI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=76fb2dc4eb16b930f3b69070142773e5",
+                    "width": 216,
+                    "height": 216
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/PdxSWka1ucOBlf6qV4bsLdDtle7_X8qgLpgrssC2NWI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=6250e777a21d86ff0e748de53c802078",
+                    "width": 320,
+                    "height": 320
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/PdxSWka1ucOBlf6qV4bsLdDtle7_X8qgLpgrssC2NWI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=a8771edcf203250114eef37783f772a3",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/PdxSWka1ucOBlf6qV4bsLdDtle7_X8qgLpgrssC2NWI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=aa0a7db4b61bf641b433b95f4ee7b136",
+                    "width": 960,
+                    "height": 960
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/PdxSWka1ucOBlf6qV4bsLdDtle7_X8qgLpgrssC2NWI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=45a521e36ad1a42a2f8d339e1a258429",
+                    "width": 1080,
+                    "height": 1080
+                  }
+                ],
+                "variants": {},
+                "id": "NjwcRDrfoQa0AAk5Bv_ZCqBwMMXjfRPkoKid5k9y0R4"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://a.thumbs.redditmedia.com/1SaDrQKEJRRKrYXlcc6cnHJfSLyGL5UMrcU5k-O2De8.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xb5l9",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7xb5l9/as_a_designer_this_is_me_every_time_an_engineer/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518572863.0,
+          "url": "https://i.redd.it/g587rx8jp0g01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "As a designer, this is me every time an engineer helps me.",
+          "created_utc": 1518544063.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 31863,
+          "media": null,
+          "num_comments": 1368,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xj6pi",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "N0THING_BUT_THE_RAIN",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 96,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/CMeJwIv5wqzOildwPvXYYq1jJAlhdKMMY3oMxI9Y6fk.jpg?fm=jpg&amp;s=07253f590c622d20c8afd5b4cc8abdc2",
+                  "width": 2048,
+                  "height": 1536
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/CMeJwIv5wqzOildwPvXYYq1jJAlhdKMMY3oMxI9Y6fk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=3fc9506c8f59544d2e023cc9952af230",
+                    "width": 108,
+                    "height": 81
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/CMeJwIv5wqzOildwPvXYYq1jJAlhdKMMY3oMxI9Y6fk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=56ddaefd1102ef826807eb33b9c2f8f5",
+                    "width": 216,
+                    "height": 162
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/CMeJwIv5wqzOildwPvXYYq1jJAlhdKMMY3oMxI9Y6fk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=d733ab3d0475ecd99d7e4e4841aa953e",
+                    "width": 320,
+                    "height": 240
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/CMeJwIv5wqzOildwPvXYYq1jJAlhdKMMY3oMxI9Y6fk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=a4cc6beb07f227e9aa43a1f59e9aeaa4",
+                    "width": 640,
+                    "height": 480
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/CMeJwIv5wqzOildwPvXYYq1jJAlhdKMMY3oMxI9Y6fk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=e13276ba00b2c773998ed976696ffd4a",
+                    "width": 960,
+                    "height": 720
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/CMeJwIv5wqzOildwPvXYYq1jJAlhdKMMY3oMxI9Y6fk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=1b0dfc10997e0ed337f73d2810a32e16",
+                    "width": 1080,
+                    "height": 810
+                  }
+                ],
+                "variants": {},
+                "id": "p-l5A09JxHaVrO-z-uOf6eLAOa9b_hMClKcb3Tt7hV0"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/vAS1a_H7HyihcEGf1naBXl-7w763auinUz03zcdtabg.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 105,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xj6pi",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7xj6pi/i_dont_usually_understand_what_my_fianc\u00e9_talks/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518654328.0,
+          "url": "https://i.redd.it/l306hi4vf7g01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title":
+            "I don\u2019t usually understand what my fianc\u00e9 talks about when he rants about programming, but I do understand that he has strong opinions on keyboards with slightly off-centered keys. So I made him this Valentine\u2019s Day card to show my support.",
+          "created_utc": 1518625528.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 96,
+          "media": null,
+          "num_comments": 23,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xixas",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "sebas2201",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 72,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/3nT3dKGG1biUJ5bWNXU9ozy2LfFXjuk4rJWONFmzFs0.jpg?fm=jpg&amp;s=360ece14a5382ea16bf05194f0f9ee0f",
+                  "width": 3024,
+                  "height": 4032
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/3nT3dKGG1biUJ5bWNXU9ozy2LfFXjuk4rJWONFmzFs0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=90f7c3039ee42f5079a754bc0a186e99",
+                    "width": 108,
+                    "height": 144
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/3nT3dKGG1biUJ5bWNXU9ozy2LfFXjuk4rJWONFmzFs0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=648dd3ba229894eb78b1ee9065967d90",
+                    "width": 216,
+                    "height": 288
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/3nT3dKGG1biUJ5bWNXU9ozy2LfFXjuk4rJWONFmzFs0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=a414329fe6a0d7e5477fc7031a282811",
+                    "width": 320,
+                    "height": 426
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/3nT3dKGG1biUJ5bWNXU9ozy2LfFXjuk4rJWONFmzFs0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=2e4847fc6ef2d6c983722a7045867729",
+                    "width": 640,
+                    "height": 853
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/3nT3dKGG1biUJ5bWNXU9ozy2LfFXjuk4rJWONFmzFs0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=0490558a9ab1f77c04601d26924dd35a",
+                    "width": 960,
+                    "height": 1280
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/3nT3dKGG1biUJ5bWNXU9ozy2LfFXjuk4rJWONFmzFs0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=1ac4ada0feb37d628abb117a198aa86b",
+                    "width": 1080,
+                    "height": 1440
+                  }
+                ],
+                "variants": {},
+                "id": "AmRZ5s-GiKsKzDct1je7XXoA5K_1h-FHd6ZC32nlRjI"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://a.thumbs.redditmedia.com/DvN_6ylPYekrA3TvliKPJtmIAa0OvBDNpsJ0OJNw_F4.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xixas",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7xixas/when_its_valentines_day_and_you_have_to_be/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518652189.0,
+          "url": "https://i.redd.it/7f30sm5i97g01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title":
+            "When it's valentines day and you have to be original with your gifts",
+          "created_utc": 1518623389.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 72,
+          "media": null,
+          "num_comments": 7,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xkeoj",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "Atoc_",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 34,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/3To2mIxb0nFNkcZ4dme6VGrtdPsBrT0aWmjetdY3Qu8.png?fm=jpg&amp;s=c7f73b610b09f75677c236d2d579d520",
+                  "width": 384,
+                  "height": 768
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/3To2mIxb0nFNkcZ4dme6VGrtdPsBrT0aWmjetdY3Qu8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=d4c599cc1b7f2df6974030bcd02c5093",
+                    "width": 108,
+                    "height": 216
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/3To2mIxb0nFNkcZ4dme6VGrtdPsBrT0aWmjetdY3Qu8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=6d41128bdb4add73559568517dd93d3e",
+                    "width": 216,
+                    "height": 432
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/3To2mIxb0nFNkcZ4dme6VGrtdPsBrT0aWmjetdY3Qu8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=4885b162d0ac505ce89993b9bc3d7dcc",
+                    "width": 320,
+                    "height": 640
+                  }
+                ],
+                "variants": {},
+                "id": "RMtFTOhEPP_YhBifuPRGG7sWbjHZ5jhO0XFviy4aIMU"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://a.thumbs.redditmedia.com/xWvyd5Z-LDRGiOjLBrL9y-4l563l4UY7mOsztwwdEU4.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xkeoj",
+          "spoiler": false,
+          "permalink": "/r/ProgrammerHumor/comments/7xkeoj/creative_title/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": true,
+          "created": 1518663864.0,
+          "url": "https://i.redd.it/32sfyxc588g01.png",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Creative Title",
+          "created_utc": 1518635064.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 34,
+          "media": null,
+          "num_comments": 0,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xel9e",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "rubyruy",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 786,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/9xTrUkJCMXzsx81CJY3Pf5GZ4O3SSuqqIOhL3aSwLxw.png?fm=jpg&amp;s=95878d3fb932be9798216a09e7a54bda",
+                  "width": 1294,
+                  "height": 218
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/9xTrUkJCMXzsx81CJY3Pf5GZ4O3SSuqqIOhL3aSwLxw.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=34984ca03fbdee49ab7111a15e76c8b0",
+                    "width": 108,
+                    "height": 18
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/9xTrUkJCMXzsx81CJY3Pf5GZ4O3SSuqqIOhL3aSwLxw.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=96d962a9e1bbfc745b97ad07243ef794",
+                    "width": 216,
+                    "height": 36
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/9xTrUkJCMXzsx81CJY3Pf5GZ4O3SSuqqIOhL3aSwLxw.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=9774473ebd29598665ec980427fea635",
+                    "width": 320,
+                    "height": 53
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/9xTrUkJCMXzsx81CJY3Pf5GZ4O3SSuqqIOhL3aSwLxw.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=8889ebb8f2020e8f32839eed46aced28",
+                    "width": 640,
+                    "height": 107
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/9xTrUkJCMXzsx81CJY3Pf5GZ4O3SSuqqIOhL3aSwLxw.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=b4be430237ee6ae5deb1a6bd3f9a3254",
+                    "width": 960,
+                    "height": 161
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/9xTrUkJCMXzsx81CJY3Pf5GZ4O3SSuqqIOhL3aSwLxw.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=dd5d549e14cb4dd923cebae342cc0575",
+                    "width": 1080,
+                    "height": 181
+                  }
+                ],
+                "variants": {},
+                "id": "lOQPnjXLwJIFeXWW4_VmtPLOa5GTHglhMOjXcqGuYsg"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/tR5fFbCX3vHPdYd2rXjobI43Ves9GVl7GUtaPJAW3Gc.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 23,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xel9e",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7xel9e/everyday_we_stray_further_from_gods_light/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518601861.0,
+          "url": "https://i.redd.it/b6a1iyyq33g01.png",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Everyday We Stray Further From God's Light",
+          "created_utc": 1518573061.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 786,
+          "media": null,
+          "num_comments": 93,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xh0xm",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "_vydd",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 101,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/hf7MCSEv37JH6N8Nl97dzMWVULelqm0todjAXpGcHcc.jpg?fm=jpg&amp;s=29860a094089aa8d72c5c2b30d40f4ff",
+                  "width": 500,
+                  "height": 500
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/hf7MCSEv37JH6N8Nl97dzMWVULelqm0todjAXpGcHcc.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=3af96fb2526213f0c95bc3fba354bcb8",
+                    "width": 108,
+                    "height": 108
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/hf7MCSEv37JH6N8Nl97dzMWVULelqm0todjAXpGcHcc.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=e50a5cb7b3a701a9aacade035721273f",
+                    "width": 216,
+                    "height": 216
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/hf7MCSEv37JH6N8Nl97dzMWVULelqm0todjAXpGcHcc.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=38c72523b8e9f61a42fe88f469a31cc2",
+                    "width": 320,
+                    "height": 320
+                  }
+                ],
+                "variants": {},
+                "id": "WMDBY4p3SrMNmZXaFjf9Ti0g3c4KghnpVPzdhZu_2Yc"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/bQuvRWYyqghqD626CQXwdVi1pr4pinLBi2GYycmzzyU.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xh0xm",
+          "spoiler": false,
+          "permalink": "/r/ProgrammerHumor/comments/7xh0xm/observer_effect/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518631677.0,
+          "url": "https://i.redd.it/c8ge7th5k5g01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Observer effect",
+          "created_utc": 1518602877.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 101,
+          "media": null,
+          "num_comments": 2,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xjp9c",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "Tehcrowley",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 25,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/LsIUcCDgcAE9KMvGqPDYehwPhWHn8GCpIIq5hhVQ9mc.png?fm=jpg&amp;s=e3eb54badc67fee51a12bf5976d338b2",
+                  "width": 1080,
+                  "height": 2220
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LsIUcCDgcAE9KMvGqPDYehwPhWHn8GCpIIq5hhVQ9mc.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=926fba6d69321825344cc3b34e1bcd20",
+                    "width": 108,
+                    "height": 216
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LsIUcCDgcAE9KMvGqPDYehwPhWHn8GCpIIq5hhVQ9mc.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=facac7057405b43fbca7ba4dc874a85c",
+                    "width": 216,
+                    "height": 432
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LsIUcCDgcAE9KMvGqPDYehwPhWHn8GCpIIq5hhVQ9mc.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=054d65dc9ae03ff07b43182ac470e65f",
+                    "width": 320,
+                    "height": 640
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LsIUcCDgcAE9KMvGqPDYehwPhWHn8GCpIIq5hhVQ9mc.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=35bd1c1f1140df37f1e219a62c52a451",
+                    "width": 640,
+                    "height": 1280
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LsIUcCDgcAE9KMvGqPDYehwPhWHn8GCpIIq5hhVQ9mc.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=119e6e89c500cb4763b689e4d4aa86ee",
+                    "width": 960,
+                    "height": 1920
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LsIUcCDgcAE9KMvGqPDYehwPhWHn8GCpIIq5hhVQ9mc.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=73ccc4c7652eba1bb0d25aa1106717b5",
+                    "width": 1080,
+                    "height": 2160
+                  }
+                ],
+                "variants": {},
+                "id": "2pEINs1Sqb0Q1zambyG2EmwvbgQIPMZ3jxtfcZRo2Ig"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/bIQpEO7R6sEaLJl5o1j1VCQytqCayPCezXv6oXehZBE.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xjp9c",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7xjp9c/another_valentines_day/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518658336.0,
+          "url": "https://i.redd.it/dwclhmosq7g01.png",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Another Valentines Day..",
+          "created_utc": 1518629536.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 25,
+          "media": null,
+          "num_comments": 6,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xe6y4",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "matthew416",
+          "num_crossposts": 1,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 463,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/ha9QTJR-GXRY8xUa7S0mGjLGHSu6m8OQ973w0RB7YhA.jpg?fm=jpg&amp;s=81f7ec446948627cd6d10ddf36317f36",
+                  "width": 548,
+                  "height": 796
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/ha9QTJR-GXRY8xUa7S0mGjLGHSu6m8OQ973w0RB7YhA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=c40304443a607640ae4c43bd1d8b3e39",
+                    "width": 108,
+                    "height": 156
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/ha9QTJR-GXRY8xUa7S0mGjLGHSu6m8OQ973w0RB7YhA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=de0120289bdc64e60e920caf11ff4bb8",
+                    "width": 216,
+                    "height": 313
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/ha9QTJR-GXRY8xUa7S0mGjLGHSu6m8OQ973w0RB7YhA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=c4170cc10da3b0330ef31c16c4d76a51",
+                    "width": 320,
+                    "height": 464
+                  }
+                ],
+                "variants": {},
+                "id": "tmYDf8jTq9KJyEauch8dPV2eiekQByyXXvigYdoDDA0"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/Bw1K1D5fkiyh5oOBeNuNnSl_zfc-g5nPh8LxEYxXhdY.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xe6y4",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7xe6y4/nihilistic_password_suggestions/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518598058.0,
+          "url": "https://i.redd.it/zv30linjs2g01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Nihilistic password suggestions",
+          "created_utc": 1518569258.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 463,
+          "media": null,
+          "num_comments": 22,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.imgur.com",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": null,
+          "id": "7xetcg",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "L3xmark",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 342,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/cHK66OSeTN7hUO219dMR1AE2aVqWQVptrS2jAd_08Gg.png?fm=jpg&amp;s=c2656a83bb4ad7388b61e62e1413fadf",
+                  "width": 650,
+                  "height": 550
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/cHK66OSeTN7hUO219dMR1AE2aVqWQVptrS2jAd_08Gg.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=89f79acc536902b4e23b5339e0393b27",
+                    "width": 108,
+                    "height": 91
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/cHK66OSeTN7hUO219dMR1AE2aVqWQVptrS2jAd_08Gg.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=bfb35f96eb290212e71c42a70c388274",
+                    "width": 216,
+                    "height": 182
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/cHK66OSeTN7hUO219dMR1AE2aVqWQVptrS2jAd_08Gg.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=1f0b7b9c45187d5c4ddff0809cd39cc6",
+                    "width": 320,
+                    "height": 270
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/cHK66OSeTN7hUO219dMR1AE2aVqWQVptrS2jAd_08Gg.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=d71ca8502cd1fe314a199baebf7c4d1c",
+                    "width": 640,
+                    "height": 541
+                  }
+                ],
+                "variants": {},
+                "id": "0n3wlspaKJeLB6Kpg3bDftc7cfLG8ebtI16mp9t2LmY"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/7UBylBc4sg8SR3dWGx58FMVEIBl-Ox0XPzcrpyxPLQQ.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 118,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xetcg",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7xetcg/guys_literally_want_one_thing/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518604084.0,
+          "url": "https://i.imgur.com/Ush0zot.png",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Guys literally want one thing",
+          "created_utc": 1518575284.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 342,
+          "media": null,
+          "num_comments": 8,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xhgd8",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "MenaceInc",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 57,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/0CEiuvI5Q6347IlK_HFOzpQc8KZ9p48wajfI9ZY6MyE.jpg?fm=jpg&amp;s=d4ace3d70fcc057dcb44d4640a11fce9",
+                  "width": 500,
+                  "height": 500
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/0CEiuvI5Q6347IlK_HFOzpQc8KZ9p48wajfI9ZY6MyE.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=6a68cac21ec55d3a9642663b5d39ad37",
+                    "width": 108,
+                    "height": 108
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/0CEiuvI5Q6347IlK_HFOzpQc8KZ9p48wajfI9ZY6MyE.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=097fed08ceaf7c1b06f0f29cd4cc6ff9",
+                    "width": 216,
+                    "height": 216
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/0CEiuvI5Q6347IlK_HFOzpQc8KZ9p48wajfI9ZY6MyE.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=0adc67bdde183fb31a5dbebf7ab521d4",
+                    "width": 320,
+                    "height": 320
+                  }
+                ],
+                "variants": {},
+                "id": "m1ZGAvI-HmuMExcShl6GbhhH8xftlgQlJTxyuoqP5wk"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://a.thumbs.redditmedia.com/NjpDIKNYmqnqXSNAvxA4SzcfCx7_k0s_nHd5O1PFra8.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xhgd8",
+          "spoiler": false,
+          "permalink": "/r/ProgrammerHumor/comments/7xhgd8/just_my_type/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518637681.0,
+          "url": "https://i.redd.it/t48xjb8a26g01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Just my type",
+          "created_utc": 1518608881.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 57,
+          "media": null,
+          "num_comments": 8,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xkkkf",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "rahuldottech",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 12,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/15wj889VZ19F-JM1rj-I1fVLB6MDyh-vynQOc36T4-o.png?fm=jpg&amp;s=11f61484122e6c0ecbe9d3d40ffcfb50",
+                  "width": 950,
+                  "height": 546
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/15wj889VZ19F-JM1rj-I1fVLB6MDyh-vynQOc36T4-o.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=3049b38a920d263792d71d3113dbb67c",
+                    "width": 108,
+                    "height": 62
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/15wj889VZ19F-JM1rj-I1fVLB6MDyh-vynQOc36T4-o.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=43f31660ff5a1360e5bb15df33bf3e47",
+                    "width": 216,
+                    "height": 124
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/15wj889VZ19F-JM1rj-I1fVLB6MDyh-vynQOc36T4-o.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=c9109a7592b186f75e61c0e89dff5b9e",
+                    "width": 320,
+                    "height": 183
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/15wj889VZ19F-JM1rj-I1fVLB6MDyh-vynQOc36T4-o.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=361e852ad06856edb6ed471240a0239d",
+                    "width": 640,
+                    "height": 367
+                  }
+                ],
+                "variants": {},
+                "id": "3GuFzhyOkEIIIx9Al-wgGstyASjgHBhZ2WdZ3rLSeVk"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/vtMyHLcDtGxCaYmP-UNhye_oA5wnhctK91VCi_Ait9A.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 80,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xkkkf",
+          "spoiler": false,
+          "permalink": "/r/ProgrammerHumor/comments/7xkkkf/false/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": true,
+          "created": 1518665145.0,
+          "url": "https://i.redd.it/pdsdssvwb8g01.png",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "!false",
+          "created_utc": 1518636345.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 12,
+          "media": null,
+          "num_comments": 2,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7x96ts",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "ShubhamBadal",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 3830,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/osMa8XxZGcGRkTcd0RRTY16Sk0Jz0OU7GTm3mmYSK8E.jpg?fm=jpg&amp;s=ff9ba15cf61206f7e2327924b9edd2bf",
+                  "width": 480,
+                  "height": 463
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/osMa8XxZGcGRkTcd0RRTY16Sk0Jz0OU7GTm3mmYSK8E.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=1c05eca86ed4980c28f3cb9a755ed455",
+                    "width": 108,
+                    "height": 104
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/osMa8XxZGcGRkTcd0RRTY16Sk0Jz0OU7GTm3mmYSK8E.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=4ba856a118e4ff4666e67b895de05875",
+                    "width": 216,
+                    "height": 208
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/osMa8XxZGcGRkTcd0RRTY16Sk0Jz0OU7GTm3mmYSK8E.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=1b1c246aa588f409f7c5b3bc2435a9a5",
+                    "width": 320,
+                    "height": 308
+                  }
+                ],
+                "variants": {},
+                "id": "CCJWxqzWONhTWwHtut0H0uKdts8NRIGMAp93wh2siJU"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/TYDcXvTbEPPm5Hv74AO86NjYBeavqN_hjozdxG01XOE.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 135,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7x96ts",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7x96ts/learning_a_new_programming_language/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518555438.0,
+          "url": "https://i.redd.it/y7l1s8eo9zf01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Learning a new programming language",
+          "created_utc": 1518526638.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 3830,
+          "media": null,
+          "num_comments": 154,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "self.ProgrammerHumor",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": null,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": null,
+          "id": "7xiudt",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "wlkngmachine",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 23,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "thumbnail": "self",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": null,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xiudt",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7xiudt/god_im_a_fricken_genius_me_anytime_i_fix_a_small/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518651535.0,
+          "url":
+            "https://www.reddit.com/r/ProgrammerHumor/comments/7xiudt/god_im_a_fricken_genius_me_anytime_i_fix_a_small/",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title":
+            "\"God, I'm a fricken genius!!!\" -me anytime I fix a small bug",
+          "created_utc": 1518622735.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 23,
+          "media": null,
+          "num_comments": 6,
+          "is_self": true,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xfdv5",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "teds_trip22",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 195,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/GjMidn4Fl1BulQTvC333hfMFU83QpiXmgpyCvOXogRo.png?fm=jpg&amp;s=a1a3d8aea3c2d7cb6d9cbed979e2888b",
+                  "width": 1080,
+                  "height": 1920
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/GjMidn4Fl1BulQTvC333hfMFU83QpiXmgpyCvOXogRo.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=54f3807d61b65ac5abbe94b4448eb5ab",
+                    "width": 108,
+                    "height": 192
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/GjMidn4Fl1BulQTvC333hfMFU83QpiXmgpyCvOXogRo.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=05ef443700e8233eaf9ecff340557646",
+                    "width": 216,
+                    "height": 384
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/GjMidn4Fl1BulQTvC333hfMFU83QpiXmgpyCvOXogRo.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=c65f85287a6cf2abe078f35691cb2728",
+                    "width": 320,
+                    "height": 568
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/GjMidn4Fl1BulQTvC333hfMFU83QpiXmgpyCvOXogRo.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=7f4f00c58e2cbb429808068e8a7b86be",
+                    "width": 640,
+                    "height": 1137
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/GjMidn4Fl1BulQTvC333hfMFU83QpiXmgpyCvOXogRo.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=5741e30b8a371568c34c19f9a2f16963",
+                    "width": 960,
+                    "height": 1706
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/GjMidn4Fl1BulQTvC333hfMFU83QpiXmgpyCvOXogRo.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=1fb60ca1c55a63d11b2c92ac8f37823c",
+                    "width": 1080,
+                    "height": 1920
+                  }
+                ],
+                "variants": {},
+                "id": "5yhD0TbOgqXNwSXEa1Hffp70VhWvLQAQG9EQf4cpraw"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/H1kdm8kBn0fn3epsIyVpE1WoR2B8p8529kQYIj4glpg.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xfdv5",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7xfdv5/we_can_finally_gitgud/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518609952.0,
+          "url": "https://i.redd.it/rkqqfywwr3g01.png",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "We can finally \"git-gud\".",
+          "created_utc": 1518581152.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 195,
+          "media": null,
+          "num_comments": 6,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": "Arrays start at x",
+          "id": "7x9m9q",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "FOXCRUSHER101",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 2751,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/M06FMgpbtFPMJQlbSv-bC_pAs8MiSAJAWLtFllUdWXI.png?fm=jpg&amp;s=6ede9fbbd7ca0863020a35c9c4ad673a",
+                  "width": 1440,
+                  "height": 1063
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/M06FMgpbtFPMJQlbSv-bC_pAs8MiSAJAWLtFllUdWXI.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=0426803d405e77927b9b3e8eee7b3adf",
+                    "width": 108,
+                    "height": 79
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/M06FMgpbtFPMJQlbSv-bC_pAs8MiSAJAWLtFllUdWXI.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=9c0773b29d34f23ccc88f44dc4c7e6ab",
+                    "width": 216,
+                    "height": 159
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/M06FMgpbtFPMJQlbSv-bC_pAs8MiSAJAWLtFllUdWXI.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=c724c2570ba8d8e1f74ae745da588f99",
+                    "width": 320,
+                    "height": 236
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/M06FMgpbtFPMJQlbSv-bC_pAs8MiSAJAWLtFllUdWXI.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=7f73f3de5a74c7c6385e6124eca5be17",
+                    "width": 640,
+                    "height": 472
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/M06FMgpbtFPMJQlbSv-bC_pAs8MiSAJAWLtFllUdWXI.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=ae9d0109c1ff32ec351e7e3dfbfadf01",
+                    "width": 960,
+                    "height": 708
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/M06FMgpbtFPMJQlbSv-bC_pAs8MiSAJAWLtFllUdWXI.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=a4a1540cc4fd5f842d1a6ced2d4e126e",
+                    "width": 1080,
+                    "height": 797
+                  }
+                ],
+                "variants": {},
+                "id": "KRkUdsWmlv1vEswRpNXhwJ54vMSkYq9rp5BDE3d7ZLA"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/DKHN2eORYf1f_bjCGdilXgtyT7C85ybogLTcOEoZYco.jpg",
+          "edited": false,
+          "link_flair_css_class": "ui",
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 103,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7x9m9q",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7x9m9q/programmers_can_always_do_better/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518559816.0,
+          "url": "https://i.redd.it/mm1npe1umzf01.png",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Programmers can always do better.",
+          "created_utc": 1518531016.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 2751,
+          "media": null,
+          "num_comments": 83,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xbsgz",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "-Airwalker-",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 896,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/jQGvsfj1wswSiGZxMzkgKNp19584NnTtZ2CgBi51bag.png?fm=jpg&amp;s=9431f2e03897317532f8d0e8e199c6b4",
+                  "width": 1618,
+                  "height": 406
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/jQGvsfj1wswSiGZxMzkgKNp19584NnTtZ2CgBi51bag.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=e67b9f09ff688177bbcaca2824cdb715",
+                    "width": 108,
+                    "height": 27
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/jQGvsfj1wswSiGZxMzkgKNp19584NnTtZ2CgBi51bag.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=f9b37e4886fe9eef95029be0164dee70",
+                    "width": 216,
+                    "height": 54
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/jQGvsfj1wswSiGZxMzkgKNp19584NnTtZ2CgBi51bag.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=ad1e214214d8992fceced6b4d025cb5f",
+                    "width": 320,
+                    "height": 80
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/jQGvsfj1wswSiGZxMzkgKNp19584NnTtZ2CgBi51bag.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=105f91825f956f0de63eb786234c4d8a",
+                    "width": 640,
+                    "height": 160
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/jQGvsfj1wswSiGZxMzkgKNp19584NnTtZ2CgBi51bag.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=24c3550cd8195184d8501b6d5b60760f",
+                    "width": 960,
+                    "height": 240
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/jQGvsfj1wswSiGZxMzkgKNp19584NnTtZ2CgBi51bag.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=77716c8e4c39dad4cacff5bc1e71b0e2",
+                    "width": 1080,
+                    "height": 271
+                  }
+                ],
+                "variants": {},
+                "id": "jYjdm8Qb2HRkUChLpzJ1zTA2mNhIAeHUiDVonF0cbWc"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/IpQRQh9L3X5atCL3SOxP7vzSl1JSHGfqJw5DSHKKldI.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 35,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xbsgz",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7xbsgz/i_was_trying_to_figure_out_if_i_spelled_it_wrong/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518577825.0,
+          "url": "https://i.redd.it/6loyalh641g01.png",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title":
+            "I was trying to figure out if I spelled it wrong when I finally decided to click on it and realized google was trying to be funny.",
+          "created_utc": 1518549025.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 896,
+          "media": null,
+          "num_comments": 47,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xbz6s",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "ravitaneja",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 814,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/ZPyLG7ugewh6qjIddBucGB-li8nxISkEoB3iVlBuexc.jpg?fm=jpg&amp;s=81fd3b5059fa558a3fc4f4ca86b55e53",
+                  "width": 800,
+                  "height": 800
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/ZPyLG7ugewh6qjIddBucGB-li8nxISkEoB3iVlBuexc.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=761deb6238889d6308525e4af0043d2f",
+                    "width": 108,
+                    "height": 108
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/ZPyLG7ugewh6qjIddBucGB-li8nxISkEoB3iVlBuexc.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=d71f367727eb9a8c8deb6b4c71d28c7d",
+                    "width": 216,
+                    "height": 216
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/ZPyLG7ugewh6qjIddBucGB-li8nxISkEoB3iVlBuexc.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=fa2b6dc444da60565f915908d004b511",
+                    "width": 320,
+                    "height": 320
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/ZPyLG7ugewh6qjIddBucGB-li8nxISkEoB3iVlBuexc.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=4590714427118f1f7ce3ebdbad4253e7",
+                    "width": 640,
+                    "height": 640
+                  }
+                ],
+                "variants": {},
+                "id": "5sH-hGv578zHwqLo9OFz-7I9RUHqvEHlh_Ulpm3sT0I"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/xjIF8Lbahmuqot_wJHQ3HjIwyh_atLEfy-fOLvhmYwI.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xbz6s",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7xbz6s/how_real_programmers_do_work/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518579290.0,
+          "url": "https://i.redd.it/lrnagdnq81g01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "How real programmers do work.",
+          "created_utc": 1518550490.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 814,
+          "media": null,
+          "num_comments": 33,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xieue",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "jk-coding",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 26,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/jT83SPNupzUS81EQPEmEydG-CYmNKuH7qTetXoFPMUY.png?fm=jpg&amp;s=0226e419bd78c7d3767085286f9731a4",
+                  "width": 343,
+                  "height": 280
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/jT83SPNupzUS81EQPEmEydG-CYmNKuH7qTetXoFPMUY.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=485a22c85a252cd9c46e285c890330ca",
+                    "width": 108,
+                    "height": 88
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/jT83SPNupzUS81EQPEmEydG-CYmNKuH7qTetXoFPMUY.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=7fbc16c59671664f15f66506e56f1fd5",
+                    "width": 216,
+                    "height": 176
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/jT83SPNupzUS81EQPEmEydG-CYmNKuH7qTetXoFPMUY.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=ec03dea8022f7cb0419005448a2c3b3c",
+                    "width": 320,
+                    "height": 261
+                  }
+                ],
+                "variants": {},
+                "id": "V6nAUVQO_6PUM3uF3wLwykDbvjCgCKEGdmXWsryJTzw"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/HAIAWwnB1ItAsYjCVCgkujKp6I6yBdbcesj537xBB1s.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 114,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xieue",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7xieue/my_java_instructor_needs_to_rethink_his_methods/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518647849.0,
+          "url": "https://i.redd.it/98i02gohw6g01.png",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title":
+            "My Java instructor needs to rethink his methods (no pun intended)",
+          "created_utc": 1518619049.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 26,
+          "media": null,
+          "num_comments": 1,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_2tex6",
+          "thumbnail_width": 140,
+          "subreddit": "ProgrammerHumor",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7xb48w",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "BreakawayEnso",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 1039,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/oC3lf-GRl4Ge17UjRKCj97SX62dIR5ivQ72ru87CleQ.jpg?fm=jpg&amp;s=4f13b897525460e258a80e80771d1ffc",
+                  "width": 1440,
+                  "height": 1685
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/oC3lf-GRl4Ge17UjRKCj97SX62dIR5ivQ72ru87CleQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=5fde638e39af236d550f482e2cd5d3c3",
+                    "width": 108,
+                    "height": 126
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/oC3lf-GRl4Ge17UjRKCj97SX62dIR5ivQ72ru87CleQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=a059a3ef29fb731115a2a0f8cb1e8a02",
+                    "width": 216,
+                    "height": 252
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/oC3lf-GRl4Ge17UjRKCj97SX62dIR5ivQ72ru87CleQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=66cb93bee92c2525a1636d7f9e90fadb",
+                    "width": 320,
+                    "height": 374
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/oC3lf-GRl4Ge17UjRKCj97SX62dIR5ivQ72ru87CleQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=3cd2f39e352c5275b5ca105e71f7e3ef",
+                    "width": 640,
+                    "height": 748
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/oC3lf-GRl4Ge17UjRKCj97SX62dIR5ivQ72ru87CleQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=635422766b70be4f9101787f2ee1044a",
+                    "width": 960,
+                    "height": 1123
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/oC3lf-GRl4Ge17UjRKCj97SX62dIR5ivQ72ru87CleQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=c37f939945998cb4050eedc79c4ef4e8",
+                    "width": 1080,
+                    "height": 1263
+                  }
+                ],
+                "variants": {},
+                "id": "0CYgtu2LoNsxSey7mnNGTnPt4iKmWoEr_myIxPO-9dc"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/p7W-dlu8UQup0e7Aruntw2vrHmdSlYuYwnEoREHs_4w.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7xb48w",
+          "spoiler": false,
+          "permalink":
+            "/r/ProgrammerHumor/comments/7xb48w/thought_you_guys_might_like_this/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1518572573.0,
+          "url": "https://i.redd.it/69hxiafqo0g01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Thought you guys might like this.",
+          "created_utc": 1518543773.0,
+          "subreddit_name_prefixed": "r/ProgrammerHumor",
+          "ups": 1039,
+          "media": null,
+          "num_comments": 49,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      }
+    ],
+    "before": null
+  }
+}

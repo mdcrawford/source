@@ -1,5 +1,10 @@
 function createPerson(name, age, school) {
-  // YOUR CODE HERE
+  let person = {
+    name: name,
+    age: age,
+    school: school
+  };
+  return person;
 }
 
 let testResult = createPerson("Michael", 21, "UVA");

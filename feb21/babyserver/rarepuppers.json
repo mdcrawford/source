@@ -1,0 +1,3931 @@
+{
+  "kind": "Listing",
+  "data": {
+    "after": "t3_7yrnvn",
+    "dist": 27,
+    "modhash": "ad62wvpp4d8423bd6aa0d2bef4b49d21e6f2f90a0af94e6d55",
+    "whitelist_status": "all_ads",
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "self.rarepuppers",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": null,
+          "subreddit": "rarepuppers",
+          "selftext_html":
+            "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;henlo frens!&lt;/p&gt;\n\n&lt;p&gt;this month of february is going to be rarepupper appreciation month - for all the lovely animols who don&amp;#39;t get quite as much love as doggos and kitters&lt;/p&gt;\n\n&lt;p&gt;pls all post your favorite non-doggo photos and gifs. We will sticky our favorites every few days. Of course normal pupps are still allowed but we are encouraging non puppers to mix it up a bit!!&lt;/p&gt;\n\n&lt;p&gt;also a special ty to &lt;a href=\"/u/BabylonBash\"&gt;u/BabylonBash&lt;/a&gt; for sending us a suggestion for something like this!&lt;/p&gt;\n\n&lt;p&gt;ty for listenin frens, cant wait to see some vv rare pups!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "selftext":
+            "henlo frens!\n\nthis month of february is going to be rarepupper appreciation month - for all the lovely animols who don't get quite as much love as doggos and kitters\n\npls all post your favorite non-doggo photos and gifs. We will sticky our favorites every few days. Of course normal pupps are still allowed but we are encouraging non puppers to mix it up a bit!!\n\nalso a special ty to u/BabylonBash for sending us a suggestion for something like this!\n\nty for listenin frens, cant wait to see some vv rare pups!\n\n\n",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": null,
+          "id": "7ulj0n",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "crazymunch",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 120,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "thumbnail": "self",
+          "edited": 1517522621.0,
+          "link_flair_css_class": null,
+          "author_flair_css_class": "wikihow",
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "author_flair_text": "\ud83d\udc36 pupper",
+          "stickied": true,
+          "can_gild": true,
+          "thumbnail_height": null,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7ulj0n",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7ulj0n/special_february_contest_super_rare_puppers/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1517544112.0,
+          "url":
+            "https://www.reddit.com/r/rarepuppers/comments/7ulj0n/special_february_contest_super_rare_puppers/",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "special february contest - super rare puppers!!",
+          "created_utc": 1517515312.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 120,
+          "media": null,
+          "num_comments": 16,
+          "is_self": true,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": "moderator"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.imgur.com",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": null,
+          "id": "7ynqs6",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "Fineous4",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 277,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/tVEjfSej9wNagIolTNA5eIGxjiRqYMWD8-V9EcHSQIA.gif?fm=jpg&amp;s=90a604be7d295e41697509a14dd643bc",
+                  "width": 728,
+                  "height": 728
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/tVEjfSej9wNagIolTNA5eIGxjiRqYMWD8-V9EcHSQIA.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=807ac06c7137931d7e66e81ce27b292a",
+                    "width": 108,
+                    "height": 108
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/tVEjfSej9wNagIolTNA5eIGxjiRqYMWD8-V9EcHSQIA.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=566c016d1a4fd4b197f2694f8d3c9c82",
+                    "width": 216,
+                    "height": 216
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/tVEjfSej9wNagIolTNA5eIGxjiRqYMWD8-V9EcHSQIA.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=026048ce5e947236c45dd3409ac64594",
+                    "width": 320,
+                    "height": 320
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/tVEjfSej9wNagIolTNA5eIGxjiRqYMWD8-V9EcHSQIA.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=06535718e0be5bf4aae16a613aed48a2",
+                    "width": 640,
+                    "height": 640
+                  }
+                ],
+                "variants": {
+                  "gif": {
+                    "source": {
+                      "url":
+                        "https://g.redditmedia.com/tVEjfSej9wNagIolTNA5eIGxjiRqYMWD8-V9EcHSQIA.gif?s=2bc41489059a9aeea636d5e4d5eb1ded",
+                      "width": 728,
+                      "height": 728
+                    },
+                    "resolutions": [
+                      {
+                        "url":
+                          "https://g.redditmedia.com/tVEjfSej9wNagIolTNA5eIGxjiRqYMWD8-V9EcHSQIA.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=1f5a14b2b282ea5fede970e7b906ec67",
+                        "width": 108,
+                        "height": 108
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/tVEjfSej9wNagIolTNA5eIGxjiRqYMWD8-V9EcHSQIA.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=6bba80e903609dcb2ad5a8b838d36a09",
+                        "width": 216,
+                        "height": 216
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/tVEjfSej9wNagIolTNA5eIGxjiRqYMWD8-V9EcHSQIA.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=3dc5c1ddc1a6e98a59186f163fc8a8ae",
+                        "width": 320,
+                        "height": 320
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/tVEjfSej9wNagIolTNA5eIGxjiRqYMWD8-V9EcHSQIA.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=d36572b3b066c0790c478958f53d7a56",
+                        "width": 640,
+                        "height": 640
+                      }
+                    ]
+                  },
+                  "mp4": {
+                    "source": {
+                      "url":
+                        "https://g.redditmedia.com/tVEjfSej9wNagIolTNA5eIGxjiRqYMWD8-V9EcHSQIA.gif?fm=mp4&amp;mp4-fragmented=false&amp;s=7b376d705c8d6c6511718c06efd55e89",
+                      "width": 728,
+                      "height": 728
+                    },
+                    "resolutions": [
+                      {
+                        "url":
+                          "https://g.redditmedia.com/tVEjfSej9wNagIolTNA5eIGxjiRqYMWD8-V9EcHSQIA.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=5109f2690948900836ba15424a1f2482",
+                        "width": 108,
+                        "height": 108
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/tVEjfSej9wNagIolTNA5eIGxjiRqYMWD8-V9EcHSQIA.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=f8d5f8e3fead65b863e0c3422ab0e3e1",
+                        "width": 216,
+                        "height": 216
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/tVEjfSej9wNagIolTNA5eIGxjiRqYMWD8-V9EcHSQIA.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=61202424c5e60cf57543374bc3b3e095",
+                        "width": 320,
+                        "height": 320
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/tVEjfSej9wNagIolTNA5eIGxjiRqYMWD8-V9EcHSQIA.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=d576514247da7375ad2f0d95690d707b",
+                        "width": 640,
+                        "height": 640
+                      }
+                    ]
+                  }
+                },
+                "id": "EcaE4f24q-fyso2grycXDuS3Z-ROCT-EmIEzpzxNzxQ"
+              }
+            ],
+            "reddit_video_preview": {
+              "fallback_url": "https://v.redd.it/b38ijzqx27h01/DASH_4_8_M",
+              "height": 720,
+              "width": 720,
+              "scrubber_media_url":
+                "https://v.redd.it/b38ijzqx27h01/DASH_600_K",
+              "dash_url": "https://v.redd.it/b38ijzqx27h01/DASHPlaylist.mpd",
+              "duration": 4,
+              "hls_url": "https://v.redd.it/b38ijzqx27h01/HLSPlaylist.m3u8",
+              "is_gif": true,
+              "transcoding_status": "completed"
+            },
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/s_nvpUaIOADXosX6cbadajHGCrurJuNn0nt7HQMtycM.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": "doggo17",
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "link",
+          "author_flair_text": "",
+          "stickied": true,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7ynqs6",
+          "spoiler": false,
+          "permalink": "/r/rarepuppers/comments/7ynqs6/baby_otto_does_a_dream/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519085824.0,
+          "url": "https://i.imgur.com/cNH8Lhm.gifv",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Baby Otto does a dream",
+          "created_utc": 1519057024.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 277,
+          "media": null,
+          "num_comments": 11,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.imgur.com",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": null,
+          "id": "7ym8f6",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "AWomanCauseILikePink",
+          "num_crossposts": 2,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 17531,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/7xYqFntZa48fhtL_zzIjxDYP9jTVp3NDOGe8mAAGjdw.gif?fm=jpg&amp;s=40d646713ca2fb750c4bef54e1770359",
+                  "width": 728,
+                  "height": 408
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/7xYqFntZa48fhtL_zzIjxDYP9jTVp3NDOGe8mAAGjdw.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=4db33c2dfd32f1a899b569d6f04117e4",
+                    "width": 108,
+                    "height": 60
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/7xYqFntZa48fhtL_zzIjxDYP9jTVp3NDOGe8mAAGjdw.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=884e85ac4e6ef2b67f92a53196fd19bc",
+                    "width": 216,
+                    "height": 121
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/7xYqFntZa48fhtL_zzIjxDYP9jTVp3NDOGe8mAAGjdw.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=b4f3534c61c906447ea651b7befb8569",
+                    "width": 320,
+                    "height": 179
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/7xYqFntZa48fhtL_zzIjxDYP9jTVp3NDOGe8mAAGjdw.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=20989f90e0890b0a14fe667cbe02e3b1",
+                    "width": 640,
+                    "height": 358
+                  }
+                ],
+                "variants": {
+                  "gif": {
+                    "source": {
+                      "url":
+                        "https://g.redditmedia.com/7xYqFntZa48fhtL_zzIjxDYP9jTVp3NDOGe8mAAGjdw.gif?s=f70fe8ebf9686b921ce9423e0d0de648",
+                      "width": 728,
+                      "height": 408
+                    },
+                    "resolutions": [
+                      {
+                        "url":
+                          "https://g.redditmedia.com/7xYqFntZa48fhtL_zzIjxDYP9jTVp3NDOGe8mAAGjdw.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=ce62a5c75ba82ac8bd3d2416953a853c",
+                        "width": 108,
+                        "height": 60
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/7xYqFntZa48fhtL_zzIjxDYP9jTVp3NDOGe8mAAGjdw.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=37b3717778f47feaa1c1afb50ee22b96",
+                        "width": 216,
+                        "height": 121
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/7xYqFntZa48fhtL_zzIjxDYP9jTVp3NDOGe8mAAGjdw.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=e8a013a6068d271efa93fc629835ac2c",
+                        "width": 320,
+                        "height": 179
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/7xYqFntZa48fhtL_zzIjxDYP9jTVp3NDOGe8mAAGjdw.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=f69062886a09a6afad6e270f1bd5fe5a",
+                        "width": 640,
+                        "height": 358
+                      }
+                    ]
+                  },
+                  "mp4": {
+                    "source": {
+                      "url":
+                        "https://g.redditmedia.com/7xYqFntZa48fhtL_zzIjxDYP9jTVp3NDOGe8mAAGjdw.gif?fm=mp4&amp;mp4-fragmented=false&amp;s=0045da568807f2c5caf34059cb9fcfa2",
+                      "width": 728,
+                      "height": 408
+                    },
+                    "resolutions": [
+                      {
+                        "url":
+                          "https://g.redditmedia.com/7xYqFntZa48fhtL_zzIjxDYP9jTVp3NDOGe8mAAGjdw.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=4de4d16aca3fe0664840c49dfbd9326c",
+                        "width": 108,
+                        "height": 60
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/7xYqFntZa48fhtL_zzIjxDYP9jTVp3NDOGe8mAAGjdw.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=8237131575c5376a5e7f4341b30efbaa",
+                        "width": 216,
+                        "height": 121
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/7xYqFntZa48fhtL_zzIjxDYP9jTVp3NDOGe8mAAGjdw.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=3d8696ed8f7a5ca181dfb75c96c82eeb",
+                        "width": 320,
+                        "height": 179
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/7xYqFntZa48fhtL_zzIjxDYP9jTVp3NDOGe8mAAGjdw.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=d4b668dd672b13aa6c1ea096ab3ec69d",
+                        "width": 640,
+                        "height": 358
+                      }
+                    ]
+                  }
+                },
+                "id": "C9Mbofn05w9kwHW3iUGvc67QoftBxC5k5zV3EjvwV0A"
+              }
+            ],
+            "reddit_video_preview": {
+              "fallback_url": "https://v.redd.it/tuspcbqev5h01/DASH_1_2_M",
+              "height": 360,
+              "width": 640,
+              "scrubber_media_url":
+                "https://v.redd.it/tuspcbqev5h01/DASH_600_K",
+              "dash_url": "https://v.redd.it/tuspcbqev5h01/DASHPlaylist.mpd",
+              "duration": 12,
+              "hls_url": "https://v.redd.it/tuspcbqev5h01/HLSPlaylist.m3u8",
+              "is_gif": true,
+              "transcoding_status": "completed"
+            },
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/H2gCiIcWpm9btf3KMd8agM-XATQhfshMap8_nUbHRpk.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": "olaf",
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "link",
+          "author_flair_text": "",
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 78,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7ym8f6",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7ym8f6/finali_some_hecking_tiem_to_meself_to_do_a/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519071184.0,
+          "url": "https://i.imgur.com/Dq1h6Qt.gifv",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Finali some hecking tiem to meself, to do a destress",
+          "created_utc": 1519042384.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 17531,
+          "media": null,
+          "num_comments": 68,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7yprd5",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "i124nk8",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 236,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/TPlkS25n4JSGWkCMjOx23j215-2AQZalRmPThdufyzY.jpg?fm=jpg&amp;s=8240a90d22384e5a0d41092c672f18fd",
+                  "width": 699,
+                  "height": 575
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/TPlkS25n4JSGWkCMjOx23j215-2AQZalRmPThdufyzY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=a55e50e2a0987eb0539a7571b5e0e71b",
+                    "width": 108,
+                    "height": 88
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/TPlkS25n4JSGWkCMjOx23j215-2AQZalRmPThdufyzY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=db0563515bca5e86534cb9f45249aabe",
+                    "width": 216,
+                    "height": 177
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/TPlkS25n4JSGWkCMjOx23j215-2AQZalRmPThdufyzY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=cd35c59d6ee83f4e6ca949e1af762eeb",
+                    "width": 320,
+                    "height": 263
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/TPlkS25n4JSGWkCMjOx23j215-2AQZalRmPThdufyzY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=b9f51d9334a1b32ee04f34bdefc09ddf",
+                    "width": 640,
+                    "height": 526
+                  }
+                ],
+                "variants": {},
+                "id": "RJtFVM_C0bZlu9iYF09HyHL8X5Km8lvu8yLEzQgWKts"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/RuK9SDgqLLwI1Fpwt6ILycDKwhR7wLVhBdIwniAL-II.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 115,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7yprd5",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7yprd5/pupper_carrying_its_own_selfie_on_its_ear/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519100358.0,
+          "url": "https://i.redd.it/csgiy8b5a8h01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Pupper carrying its own selfie on its ear",
+          "created_utc": 1519071558.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 236,
+          "media": null,
+          "num_comments": 5,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.imgur.com",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": null,
+          "id": "7yn9uw",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "derawin07",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 496,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/axJXN-eXY7dmYaUv8jrnygb2K5A33Xnk9Gyq8sXiQ9Y.gif?fm=jpg&amp;s=f8ca8f80d202733b5e5aa322238cb16a",
+                  "width": 720,
+                  "height": 720
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/axJXN-eXY7dmYaUv8jrnygb2K5A33Xnk9Gyq8sXiQ9Y.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=7c50d55f11bb621e06ecde7aa7feddb0",
+                    "width": 108,
+                    "height": 108
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/axJXN-eXY7dmYaUv8jrnygb2K5A33Xnk9Gyq8sXiQ9Y.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=0b5ac7a4c095a9fae04489c89c85f230",
+                    "width": 216,
+                    "height": 216
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/axJXN-eXY7dmYaUv8jrnygb2K5A33Xnk9Gyq8sXiQ9Y.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=2b11dfcf946eb2e279b96fb26b4058cc",
+                    "width": 320,
+                    "height": 320
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/axJXN-eXY7dmYaUv8jrnygb2K5A33Xnk9Gyq8sXiQ9Y.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=3b6563c7454d2c4bf9f2fb68a431eb97",
+                    "width": 640,
+                    "height": 640
+                  }
+                ],
+                "variants": {
+                  "gif": {
+                    "source": {
+                      "url":
+                        "https://g.redditmedia.com/axJXN-eXY7dmYaUv8jrnygb2K5A33Xnk9Gyq8sXiQ9Y.gif?s=b47068024002a8b1cfe6f7861a5af453",
+                      "width": 720,
+                      "height": 720
+                    },
+                    "resolutions": [
+                      {
+                        "url":
+                          "https://g.redditmedia.com/axJXN-eXY7dmYaUv8jrnygb2K5A33Xnk9Gyq8sXiQ9Y.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=88765c8c58be35428b95a995b3be6ddf",
+                        "width": 108,
+                        "height": 108
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/axJXN-eXY7dmYaUv8jrnygb2K5A33Xnk9Gyq8sXiQ9Y.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=adfbe8c30c6fa5b9865bba729047b2c4",
+                        "width": 216,
+                        "height": 216
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/axJXN-eXY7dmYaUv8jrnygb2K5A33Xnk9Gyq8sXiQ9Y.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=d60b78d012a6f122a27ad17ffc1115b1",
+                        "width": 320,
+                        "height": 320
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/axJXN-eXY7dmYaUv8jrnygb2K5A33Xnk9Gyq8sXiQ9Y.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=1604abd70cca78849b532bcbd46fdcb8",
+                        "width": 640,
+                        "height": 640
+                      }
+                    ]
+                  },
+                  "mp4": {
+                    "source": {
+                      "url":
+                        "https://g.redditmedia.com/axJXN-eXY7dmYaUv8jrnygb2K5A33Xnk9Gyq8sXiQ9Y.gif?fm=mp4&amp;mp4-fragmented=false&amp;s=29cb9056fe30011d686a24ebdc41ea29",
+                      "width": 720,
+                      "height": 720
+                    },
+                    "resolutions": [
+                      {
+                        "url":
+                          "https://g.redditmedia.com/axJXN-eXY7dmYaUv8jrnygb2K5A33Xnk9Gyq8sXiQ9Y.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=3a36867405096428992cf6deb6ae39b3",
+                        "width": 108,
+                        "height": 108
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/axJXN-eXY7dmYaUv8jrnygb2K5A33Xnk9Gyq8sXiQ9Y.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=c23f7ffa04f79f625ee579e5e1891d59",
+                        "width": 216,
+                        "height": 216
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/axJXN-eXY7dmYaUv8jrnygb2K5A33Xnk9Gyq8sXiQ9Y.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=cd00dafe47368ad86745d312bbe9b28d",
+                        "width": 320,
+                        "height": 320
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/axJXN-eXY7dmYaUv8jrnygb2K5A33Xnk9Gyq8sXiQ9Y.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=849bdba9f93a9a66bbfc2ce882b01cea",
+                        "width": 640,
+                        "height": 640
+                      }
+                    ]
+                  }
+                },
+                "id": "1U_zp17jMMl44JxMH602ipJAd8_mD-vAKhFtAUlosOE"
+              }
+            ],
+            "reddit_video_preview": {
+              "fallback_url": "https://v.redd.it/fjzmuaycu5h01/DASH_4_8_M",
+              "height": 720,
+              "width": 720,
+              "scrubber_media_url":
+                "https://v.redd.it/fjzmuaycu5h01/DASH_600_K",
+              "dash_url": "https://v.redd.it/fjzmuaycu5h01/DASHPlaylist.mpd",
+              "duration": 15,
+              "hls_url": "https://v.redd.it/fjzmuaycu5h01/HLSPlaylist.m3u8",
+              "is_gif": true,
+              "transcoding_status": "completed"
+            },
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/_MMPCp6C0FpUPxHWIHsI8FIFXpF0TabtTQtEj9IgCQQ.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "link",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7yn9uw",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7yn9uw/b_a_l_l_e_b_o_y_e_enjoying_time_off_at_wimbledon/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519081984.0,
+          "url": "https://i.imgur.com/FW2NMPW.gifv",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "B A L L E B O Y E enjoying time off at Wimbledon.",
+          "created_utc": 1519053184.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 496,
+          "media": null,
+          "num_comments": 7,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7yqcbx",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "southpluto",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 117,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/LKocQsqAe9xh6hSdiM97jdVYWD_tw7dXA7f1GlAChYs.jpg?fm=jpg&amp;s=02e165992862dec109b212906bc50991",
+                  "width": 3024,
+                  "height": 4032
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LKocQsqAe9xh6hSdiM97jdVYWD_tw7dXA7f1GlAChYs.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=3a93c6ed27143e8346103bce1ff0a3f2",
+                    "width": 108,
+                    "height": 144
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LKocQsqAe9xh6hSdiM97jdVYWD_tw7dXA7f1GlAChYs.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=6d3d84f8929d9354564aee9cd8d2ecbd",
+                    "width": 216,
+                    "height": 288
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LKocQsqAe9xh6hSdiM97jdVYWD_tw7dXA7f1GlAChYs.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=ef4e98b49cd29ea414bb6ea8e835110a",
+                    "width": 320,
+                    "height": 426
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LKocQsqAe9xh6hSdiM97jdVYWD_tw7dXA7f1GlAChYs.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=fb12e005fb706a832534aed5a0f64428",
+                    "width": 640,
+                    "height": 853
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LKocQsqAe9xh6hSdiM97jdVYWD_tw7dXA7f1GlAChYs.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=a2e6d52912287bde0eff3349dd452973",
+                    "width": 960,
+                    "height": 1280
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LKocQsqAe9xh6hSdiM97jdVYWD_tw7dXA7f1GlAChYs.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=29aa59584156fd1ca721e18f5e6a00f0",
+                    "width": 1080,
+                    "height": 1440
+                  }
+                ],
+                "variants": {},
+                "id": "qkVu0gTdFT-NBEqEAmLAJ4Fv5ujeUAUrBPKB2Gw_Cck"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://a.thumbs.redditmedia.com/HLUODrIeva7qLs5pjeQIw9ZOw30J0TGO10JbyO8RQu0.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7yqcbx",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7yqcbx/please_upboop_my_pupperino_she_has_a_gray_beard/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519104524.0,
+          "url": "https://i.redd.it/idm0adxim8h01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title":
+            "Please upboop my pupperino she has a gray beard and a cool bandanna",
+          "created_utc": 1519075724.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 117,
+          "media": null,
+          "num_comments": 4,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.imgur.com",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": null,
+          "id": "7ypbng",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "Rumham182",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 160,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/i1zwTpr1DLUuBnd7irQJVr7X9rpGk1KqnX5QDn3wR7U.jpg?fm=jpg&amp;s=9956cb3c9e8152f6c84edaba151a78c0",
+                  "width": 750,
+                  "height": 1334
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/i1zwTpr1DLUuBnd7irQJVr7X9rpGk1KqnX5QDn3wR7U.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=c49eb13cf7d73f783d512203f547711b",
+                    "width": 108,
+                    "height": 192
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/i1zwTpr1DLUuBnd7irQJVr7X9rpGk1KqnX5QDn3wR7U.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=d1319668fce8c17602ed63b437cbdebc",
+                    "width": 216,
+                    "height": 384
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/i1zwTpr1DLUuBnd7irQJVr7X9rpGk1KqnX5QDn3wR7U.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=0d936e128788a97511b7069093600716",
+                    "width": 320,
+                    "height": 569
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/i1zwTpr1DLUuBnd7irQJVr7X9rpGk1KqnX5QDn3wR7U.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=ada50edaabd4a4782329aaaa5cffba2b",
+                    "width": 640,
+                    "height": 1138
+                  }
+                ],
+                "variants": {},
+                "id": "noJ5PSG9dnREOKbfAvyS-OWB_8Pz4wQ1CErhR5-BSSA"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://a.thumbs.redditmedia.com/XinsCG6_-wxmCDiuLJpGaS96bJSleexDLu0nTIuE8v4.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7ypbng",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7ypbng/this_g_o_o_d_b_o_y_e_helped_my_unit_with_our/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519097347.0,
+          "url": "https://i.imgur.com/ih5jjpI.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "This G O O D B O Y E helped my unit with our flood relief",
+          "created_utc": 1519068547.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 160,
+          "media": null,
+          "num_comments": 6,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.imgur.com",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": null,
+          "id": "7yq1n5",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "MusicforEarthworms",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 127,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/jTC3Hqmz1jX1yF0PwSpJ9j-V-Lv4mxO3XjlfmbpfFts.jpg?fm=jpg&amp;s=740de0c67dd66f121d9d0e23001fd36b",
+                  "width": 1074,
+                  "height": 1318
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/jTC3Hqmz1jX1yF0PwSpJ9j-V-Lv4mxO3XjlfmbpfFts.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=b684eb6ace2e9f7169dfd9877ce79452",
+                    "width": 108,
+                    "height": 132
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/jTC3Hqmz1jX1yF0PwSpJ9j-V-Lv4mxO3XjlfmbpfFts.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=e3c4f4bc81ba0d3c1a2d8585ab07aa01",
+                    "width": 216,
+                    "height": 265
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/jTC3Hqmz1jX1yF0PwSpJ9j-V-Lv4mxO3XjlfmbpfFts.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=89a4d90080e9c525851c3936f27bb719",
+                    "width": 320,
+                    "height": 392
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/jTC3Hqmz1jX1yF0PwSpJ9j-V-Lv4mxO3XjlfmbpfFts.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=24735f1af705bd4871fdca12fa47f5c5",
+                    "width": 640,
+                    "height": 785
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/jTC3Hqmz1jX1yF0PwSpJ9j-V-Lv4mxO3XjlfmbpfFts.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=3898859c6ba393fc3b7fa8e1e4c6b189",
+                    "width": 960,
+                    "height": 1178
+                  }
+                ],
+                "variants": {},
+                "id": "DtZfr-B43anE_HMo2ezdTZ4whHchkCxebGZVM3pCjyE"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/_QpfCFTR0psq4SU7MNK-crEedI1dsawaLh9knPCLtIM.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": "spooder",
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": "",
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7yq1n5",
+          "spoiler": false,
+          "permalink": "/r/rarepuppers/comments/7yq1n5/12000_borkpower_engine/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519102393.0,
+          "url": "https://i.imgur.com/Z4k92WY.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "12000 Borkpower Engine",
+          "created_utc": 1519073593.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 127,
+          "media": null,
+          "num_comments": 3,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7yhmfd",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "cardboardtube_knight",
+          "num_crossposts": 1,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 46718,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/9SYYP7aK--IuctzYyJBc8KBCpN375CIQRO5Ohvq3q7U.jpg?fm=jpg&amp;s=96cddbf55fd6d46c412caa7df6eccf7a",
+                  "width": 1242,
+                  "height": 1935
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/9SYYP7aK--IuctzYyJBc8KBCpN375CIQRO5Ohvq3q7U.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=8a68ea19556203a2d85b050a3cccef7e",
+                    "width": 108,
+                    "height": 168
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/9SYYP7aK--IuctzYyJBc8KBCpN375CIQRO5Ohvq3q7U.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=8e25b42d4b074f5f17ce90e6632f12fb",
+                    "width": 216,
+                    "height": 336
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/9SYYP7aK--IuctzYyJBc8KBCpN375CIQRO5Ohvq3q7U.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=6570e970691d0d20d710dd03171b60ef",
+                    "width": 320,
+                    "height": 498
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/9SYYP7aK--IuctzYyJBc8KBCpN375CIQRO5Ohvq3q7U.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=b38983e253b3783347ab9af19dc2c592",
+                    "width": 640,
+                    "height": 997
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/9SYYP7aK--IuctzYyJBc8KBCpN375CIQRO5Ohvq3q7U.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=3ead7ddb8a78a834d511fb843312c8b0",
+                    "width": 960,
+                    "height": 1495
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/9SYYP7aK--IuctzYyJBc8KBCpN375CIQRO5Ohvq3q7U.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=85efc541ce57144304d7c26596b7a89a",
+                    "width": 1080,
+                    "height": 1682
+                  }
+                ],
+                "variants": {},
+                "id": "T0CYzOxmJXYVyAk7xuv3uno4H28Yocem8_eirUjIBaQ"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/pNhKzpk21ximm58lIIs30C6bqmFIWkc4GoJkMVpds7A.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7yhmfd",
+          "spoiler": false,
+          "permalink": "/r/rarepuppers/comments/7yhmfd/hero_boy/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519019120.0,
+          "url": "https://i.redd.it/4yywpxukk1h01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "HERO BOY",
+          "created_utc": 1518990320.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 46718,
+          "media": null,
+          "num_comments": 253,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.imgur.com",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": "flopp eears",
+          "id": "7ymrzi",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "Trail-Mix",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 393,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/CXSUdqtoGNXoYgyGvdTbUJZB3i6mygdv13dcSvnIaqk.jpg?fm=jpg&amp;s=795e3478e2acac668a486e9391c612dc",
+                  "width": 3024,
+                  "height": 4032
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/CXSUdqtoGNXoYgyGvdTbUJZB3i6mygdv13dcSvnIaqk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=9d22398f35469dcaf0cc876184680148",
+                    "width": 108,
+                    "height": 144
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/CXSUdqtoGNXoYgyGvdTbUJZB3i6mygdv13dcSvnIaqk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=69461c6ab7b9774cfa67ecc917b4961e",
+                    "width": 216,
+                    "height": 288
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/CXSUdqtoGNXoYgyGvdTbUJZB3i6mygdv13dcSvnIaqk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=4631ab597307f0290063ae001b7d84a8",
+                    "width": 320,
+                    "height": 426
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/CXSUdqtoGNXoYgyGvdTbUJZB3i6mygdv13dcSvnIaqk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=9032cf391b9056fff3a382786fd30e29",
+                    "width": 640,
+                    "height": 853
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/CXSUdqtoGNXoYgyGvdTbUJZB3i6mygdv13dcSvnIaqk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=36c7629d23afad36794e0cfb55e9969d",
+                    "width": 960,
+                    "height": 1280
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/CXSUdqtoGNXoYgyGvdTbUJZB3i6mygdv13dcSvnIaqk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=65603a240ef35e6197a764290326b450",
+                    "width": 1080,
+                    "height": 1440
+                  }
+                ],
+                "variants": {},
+                "id": "B_f-VQah-0it6Iaqvf6otSXS9P8nEC1aJYmXpHPk8Ak"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/RBUhK3QuPdcy29NPPklge7IFS830FdVQxJ_YHvN4O4E.jpg",
+          "edited": false,
+          "link_flair_css_class": "",
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7ymrzi",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7ymrzi/pupper_does_a_majestic_pose_on_mountain/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519077262.0,
+          "url": "https://i.imgur.com/K83PCZs.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Pupper does a majestic POSE on mountain",
+          "created_utc": 1519048462.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 393,
+          "media": null,
+          "num_comments": 3,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7ynh19",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "TheBuggaWump",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 263,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/xfrnzyAX9bD30Qs06beeyG09_RnOvW-BcYDjOPZFSMk.jpg?fm=jpg&amp;s=7196f4d463316f16547612cbbb12f06b",
+                  "width": 750,
+                  "height": 738
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/xfrnzyAX9bD30Qs06beeyG09_RnOvW-BcYDjOPZFSMk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=fa7fbd6d803a124d4d097b3331159491",
+                    "width": 108,
+                    "height": 106
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/xfrnzyAX9bD30Qs06beeyG09_RnOvW-BcYDjOPZFSMk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=601001f7e6637ec2cd7e21dbfbd90e8a",
+                    "width": 216,
+                    "height": 212
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/xfrnzyAX9bD30Qs06beeyG09_RnOvW-BcYDjOPZFSMk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=724afb6dd5635c8b7c8ee28c8531953b",
+                    "width": 320,
+                    "height": 314
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/xfrnzyAX9bD30Qs06beeyG09_RnOvW-BcYDjOPZFSMk.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=f64e36ff92331c90eb24987f3daa76c0",
+                    "width": 640,
+                    "height": 629
+                  }
+                ],
+                "variants": {},
+                "id": "dapefRDv3wbomUXWqpdyrb0GgUV4e8YJ1DRdWAp3y74"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/JC5_CGOJlg_Jxcs7EeubDoJjawrY-obNl2eVB85LiSw.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 137,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7ynh19",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7ynh19/everybody_is_the_goodest_boi/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519083671.0,
+          "url": "https://i.redd.it/pmzwc2viw6h01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Everybody is the Goodest boi!",
+          "created_utc": 1519054871.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 263,
+          "media": null,
+          "num_comments": 8,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.imgur.com",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "crosspost_parent_list": [
+            {
+              "domain": "i.imgur.com",
+              "approved_at_utc": null,
+              "mod_reason_by": null,
+              "banned_by": null,
+              "num_reports": null,
+              "subreddit_id": "t5_ezgp7",
+              "thumbnail_width": 140,
+              "subreddit": "AnimalsBeingSleepy",
+              "selftext_html": null,
+              "selftext": "",
+              "likes": null,
+              "suggested_sort": null,
+              "user_reports": [],
+              "secure_media": null,
+              "is_reddit_media_domain": false,
+              "link_flair_text": null,
+              "id": "7ymkwf",
+              "banned_at_utc": null,
+              "mod_reason_title": null,
+              "view_count": null,
+              "archived": false,
+              "clicked": false,
+              "media_embed": {},
+              "report_reasons": null,
+              "author": "1Voice1Life",
+              "num_crossposts": 3,
+              "saved": false,
+              "mod_reports": [],
+              "can_mod_post": false,
+              "is_crosspostable": true,
+              "pinned": false,
+              "score": 163,
+              "approved_by": null,
+              "over_18": false,
+              "hidden": false,
+              "preview": {
+                "images": [
+                  {
+                    "source": {
+                      "url":
+                        "https://i.redditmedia.com/G4brAj8ddSgDqRXphXTKB34r1tOCUg_RVqYveuzEzFA.jpg?fm=jpg&amp;s=d2775cf6451c17da2054bebdd9b4fc43",
+                      "width": 720,
+                      "height": 720
+                    },
+                    "resolutions": [
+                      {
+                        "url":
+                          "https://i.redditmedia.com/G4brAj8ddSgDqRXphXTKB34r1tOCUg_RVqYveuzEzFA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=404a01310cb06f8b7c374e67e3037301",
+                        "width": 108,
+                        "height": 108
+                      },
+                      {
+                        "url":
+                          "https://i.redditmedia.com/G4brAj8ddSgDqRXphXTKB34r1tOCUg_RVqYveuzEzFA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=ad112b39978ac66cefe3754e73f4086d",
+                        "width": 216,
+                        "height": 216
+                      },
+                      {
+                        "url":
+                          "https://i.redditmedia.com/G4brAj8ddSgDqRXphXTKB34r1tOCUg_RVqYveuzEzFA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=117ba9a6d31cbeebc06a9c8c1cb0bd32",
+                        "width": 320,
+                        "height": 320
+                      },
+                      {
+                        "url":
+                          "https://i.redditmedia.com/G4brAj8ddSgDqRXphXTKB34r1tOCUg_RVqYveuzEzFA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=dd8acfae8057a975be0b05fc460ff5de",
+                        "width": 640,
+                        "height": 640
+                      }
+                    ],
+                    "variants": {},
+                    "id": "PF6vrBanHrEegFnQ4LcfDJBABzdg3qlYEU9AvW7G53k"
+                  }
+                ],
+                "reddit_video_preview": {
+                  "fallback_url": "https://v.redd.it/x3oq6rt176h01/DASH_4_8_M",
+                  "height": 720,
+                  "width": 720,
+                  "scrubber_media_url":
+                    "https://v.redd.it/x3oq6rt176h01/DASH_600_K",
+                  "dash_url":
+                    "https://v.redd.it/x3oq6rt176h01/DASHPlaylist.mpd",
+                  "duration": 18,
+                  "hls_url": "https://v.redd.it/x3oq6rt176h01/HLSPlaylist.m3u8",
+                  "is_gif": true,
+                  "transcoding_status": "completed"
+                },
+                "enabled": false
+              },
+              "thumbnail":
+                "https://b.thumbs.redditmedia.com/Ax_rh32CewFiUBiZ1EBFdgn62sicfvM1sIJVJHahD_c.jpg",
+              "edited": false,
+              "link_flair_css_class": null,
+              "author_flair_css_class": null,
+              "contest_mode": false,
+              "gilded": 0,
+              "downs": 0,
+              "brand_safe": false,
+              "secure_media_embed": {},
+              "removal_reason": null,
+              "post_hint": "link",
+              "author_flair_text": null,
+              "stickied": false,
+              "can_gild": true,
+              "thumbnail_height": 140,
+              "parent_whitelist_status": null,
+              "name": "t3_7ymkwf",
+              "spoiler": false,
+              "permalink":
+                "/r/AnimalsBeingSleepy/comments/7ymkwf/sleepy_bulldog_puppy/",
+              "subreddit_type": "public",
+              "locked": false,
+              "hide_score": false,
+              "created": 1519075056.0,
+              "url": "https://i.imgur.com/cN8fvpS.gifv",
+              "whitelist_status": null,
+              "quarantine": false,
+              "title": "Sleepy bulldog puppy",
+              "created_utc": 1519046256.0,
+              "subreddit_name_prefixed": "r/AnimalsBeingSleepy",
+              "ups": 163,
+              "media": null,
+              "num_comments": 0,
+              "is_self": false,
+              "visited": false,
+              "mod_note": null,
+              "is_video": false,
+              "distinguished": null
+            }
+          ],
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": "tired potat",
+          "id": "7ymt3f",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "1Voice1Life",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 357,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/G4brAj8ddSgDqRXphXTKB34r1tOCUg_RVqYveuzEzFA.jpg?fm=jpg&amp;s=d2775cf6451c17da2054bebdd9b4fc43",
+                  "width": 720,
+                  "height": 720
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/G4brAj8ddSgDqRXphXTKB34r1tOCUg_RVqYveuzEzFA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=404a01310cb06f8b7c374e67e3037301",
+                    "width": 108,
+                    "height": 108
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/G4brAj8ddSgDqRXphXTKB34r1tOCUg_RVqYveuzEzFA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=ad112b39978ac66cefe3754e73f4086d",
+                    "width": 216,
+                    "height": 216
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/G4brAj8ddSgDqRXphXTKB34r1tOCUg_RVqYveuzEzFA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=117ba9a6d31cbeebc06a9c8c1cb0bd32",
+                    "width": 320,
+                    "height": 320
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/G4brAj8ddSgDqRXphXTKB34r1tOCUg_RVqYveuzEzFA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=dd8acfae8057a975be0b05fc460ff5de",
+                    "width": 640,
+                    "height": 640
+                  }
+                ],
+                "variants": {},
+                "id": "PF6vrBanHrEegFnQ4LcfDJBABzdg3qlYEU9AvW7G53k"
+              }
+            ],
+            "reddit_video_preview": {
+              "fallback_url": "https://v.redd.it/x3oq6rt176h01/DASH_4_8_M",
+              "height": 720,
+              "width": 720,
+              "scrubber_media_url":
+                "https://v.redd.it/x3oq6rt176h01/DASH_600_K",
+              "dash_url": "https://v.redd.it/x3oq6rt176h01/DASHPlaylist.mpd",
+              "duration": 18,
+              "hls_url": "https://v.redd.it/x3oq6rt176h01/HLSPlaylist.m3u8",
+              "is_gif": true,
+              "transcoding_status": "completed"
+            },
+            "enabled": false
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/Ax_rh32CewFiUBiZ1EBFdgn62sicfvM1sIJVJHahD_c.jpg",
+          "edited": false,
+          "link_flair_css_class": "",
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "link",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7ymt3f",
+          "crosspost_parent": "t3_7ymkwf",
+          "spoiler": false,
+          "permalink": "/r/rarepuppers/comments/7ymt3f/sleepy_bulldog_pupper/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519077565.0,
+          "url": "https://i.imgur.com/cN8fvpS.gifv",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Sleepy bulldog pupper",
+          "created_utc": 1519048765.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 357,
+          "media": null,
+          "num_comments": 5,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.imgur.com",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": null,
+          "id": "7ymqun",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "DagnyTheAggie",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 326,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/S4aRxTDS-B-Axfx5aJ348jp-K0saoCwa9i85YeqrWbY.jpg?fm=jpg&amp;s=34c0af41ecee29ee84f39ce2cce0ea7b",
+                  "width": 2048,
+                  "height": 2048
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/S4aRxTDS-B-Axfx5aJ348jp-K0saoCwa9i85YeqrWbY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=5a5353f6cb1b40d9dd4eac4b677c4b41",
+                    "width": 108,
+                    "height": 108
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/S4aRxTDS-B-Axfx5aJ348jp-K0saoCwa9i85YeqrWbY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=d7af28f5e1a42b278e387514c0254d6b",
+                    "width": 216,
+                    "height": 216
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/S4aRxTDS-B-Axfx5aJ348jp-K0saoCwa9i85YeqrWbY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=b353770cb69e5c3d18ed6cff45f446c1",
+                    "width": 320,
+                    "height": 320
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/S4aRxTDS-B-Axfx5aJ348jp-K0saoCwa9i85YeqrWbY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=ae36efb90b0a7b9e027f825c957e5f35",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/S4aRxTDS-B-Axfx5aJ348jp-K0saoCwa9i85YeqrWbY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=f0a711561d2d92883258d0c906a31bb8",
+                    "width": 960,
+                    "height": 960
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/S4aRxTDS-B-Axfx5aJ348jp-K0saoCwa9i85YeqrWbY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=92e2334297aae4cdad1f6c0558a87e7b",
+                    "width": 1080,
+                    "height": 1080
+                  }
+                ],
+                "variants": {},
+                "id": "KrTRpitfU4xXZsaNNnlVL-Eojpii1lqq7ujsp1V8pm4"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/7Y0lfKjIarWfBFPjy1WjW6fqd0eiT0lc5Vs7HhShv8U.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7ymqun",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7ymqun/gustav_the_good_dog_ate_some_of_them_growing_beans/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519076913.0,
+          "url": "https://i.imgur.com/UhUICrE.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Gustav the Good Dog ate some of them growing\u2019 beans!",
+          "created_utc": 1519048113.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 326,
+          "media": null,
+          "num_comments": 14,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7yq2yf",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "WhiskeyJack111",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 62,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/QCmiCR51GClM6ALMfS3Zsoot4gPVWEXe8SjhxkxvXEQ.jpg?fm=jpg&amp;s=a58d1ce5e3e329e2d01f5857fde61e2a",
+                  "width": 2160,
+                  "height": 2880
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/QCmiCR51GClM6ALMfS3Zsoot4gPVWEXe8SjhxkxvXEQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=f279797096982e4b7e737b0ef4bd4250",
+                    "width": 108,
+                    "height": 144
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/QCmiCR51GClM6ALMfS3Zsoot4gPVWEXe8SjhxkxvXEQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=908d93bb1faafd959f606c6c57a0c16f",
+                    "width": 216,
+                    "height": 288
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/QCmiCR51GClM6ALMfS3Zsoot4gPVWEXe8SjhxkxvXEQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=06364e3437742469948b8356e6f5d1e1",
+                    "width": 320,
+                    "height": 426
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/QCmiCR51GClM6ALMfS3Zsoot4gPVWEXe8SjhxkxvXEQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=e03ec937ab69c6feea6f6731b1647152",
+                    "width": 640,
+                    "height": 853
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/QCmiCR51GClM6ALMfS3Zsoot4gPVWEXe8SjhxkxvXEQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=cdcb7df9a914d6a73acf1234c8027ff7",
+                    "width": 960,
+                    "height": 1280
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/QCmiCR51GClM6ALMfS3Zsoot4gPVWEXe8SjhxkxvXEQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=57f4ef1c8dfb14be47f49a833ee3533e",
+                    "width": 1080,
+                    "height": 1440
+                  }
+                ],
+                "variants": {},
+                "id": "q1e5CnDghOd0EBImDyYAOOGID88EiMsxSyzpzpEUZys"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/g2oK6CzVnOFhxmGKxm3qCserftYZQetfsVQb96b1mOY.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7yq2yf",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7yq2yf/my_12_year_old_pupper_just_got_back_from_surgery/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519102643.0,
+          "url": "https://i.redd.it/ca0botnxg8h01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title":
+            "My 12 year old pupper just got back from surgery to remove a large lump. 20 stitches later and still hasn't stopped wagging her tail",
+          "created_utc": 1519073843.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 62,
+          "media": null,
+          "num_comments": 2,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7yq1ey",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "jumichee",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 49,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/D4MgKcEOHIGQdPX4PeW8SEgzuDsN1lfuxV8sJUIKXWY.jpg?fm=jpg&amp;s=9ae19e4f6ee87172cdd662e507f17af9",
+                  "width": 3024,
+                  "height": 4032
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/D4MgKcEOHIGQdPX4PeW8SEgzuDsN1lfuxV8sJUIKXWY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=a1fd14cf05eade27dc2a67d253ff3527",
+                    "width": 108,
+                    "height": 144
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/D4MgKcEOHIGQdPX4PeW8SEgzuDsN1lfuxV8sJUIKXWY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=6890d965d5120f903aa111bec5c943fa",
+                    "width": 216,
+                    "height": 288
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/D4MgKcEOHIGQdPX4PeW8SEgzuDsN1lfuxV8sJUIKXWY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=b5102d96934d1ed5fa032fe74440b705",
+                    "width": 320,
+                    "height": 426
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/D4MgKcEOHIGQdPX4PeW8SEgzuDsN1lfuxV8sJUIKXWY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=1a46f12e0c5d0a8295b48d6bac69f914",
+                    "width": 640,
+                    "height": 853
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/D4MgKcEOHIGQdPX4PeW8SEgzuDsN1lfuxV8sJUIKXWY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=f2071edb002f312b828845f85e2b92b6",
+                    "width": 960,
+                    "height": 1280
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/D4MgKcEOHIGQdPX4PeW8SEgzuDsN1lfuxV8sJUIKXWY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=67d706d89628b9818cfaab43fa66b79e",
+                    "width": 1080,
+                    "height": 1440
+                  }
+                ],
+                "variants": {},
+                "id": "SibAPOZ5u5WxUGf63b7hjrp76C27U3DxVEFlP7hNFc0"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/vkLi7mQSPxE4-zo2nvylSgF2FKK7zjxhZX4sm3xLkCI.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": "doggo4",
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": "",
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7yq1ey",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7yq1ey/e_x_c_i_t_e_d_b_o_y_e_does_a_play/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519102350.0,
+          "url": "https://i.redd.it/fcphdfg2g8h01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "E X C I T E D B O Y E does a play",
+          "created_utc": 1519073550.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 49,
+          "media": null,
+          "num_comments": 2,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": "puppers never die!",
+          "id": "7ym656",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "tshiar",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 241,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/ZMm13xdyLpNAlvdSOjWL_r2uGxabciglBy14SLEJ70M.jpg?fm=jpg&amp;s=ce7ca6e467fbbd4e0923c6bd95ccaeff",
+                  "width": 1080,
+                  "height": 565
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/ZMm13xdyLpNAlvdSOjWL_r2uGxabciglBy14SLEJ70M.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=c32900181e723ffc3c1ba9c12bdd7aa9",
+                    "width": 108,
+                    "height": 56
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/ZMm13xdyLpNAlvdSOjWL_r2uGxabciglBy14SLEJ70M.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=868f3da301e99f9f645712157c9cab87",
+                    "width": 216,
+                    "height": 113
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/ZMm13xdyLpNAlvdSOjWL_r2uGxabciglBy14SLEJ70M.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=d18a3fc2e3b7bd014847a92ca5d0bd04",
+                    "width": 320,
+                    "height": 167
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/ZMm13xdyLpNAlvdSOjWL_r2uGxabciglBy14SLEJ70M.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=6b900291967bdc2ab28a996c567e5734",
+                    "width": 640,
+                    "height": 334
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/ZMm13xdyLpNAlvdSOjWL_r2uGxabciglBy14SLEJ70M.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=1061aec67b6a9a4d7f3651814e11fe63",
+                    "width": 960,
+                    "height": 502
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/ZMm13xdyLpNAlvdSOjWL_r2uGxabciglBy14SLEJ70M.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=4b5a545fbc2db7516fafe95958852133",
+                    "width": 1080,
+                    "height": 565
+                  }
+                ],
+                "variants": {},
+                "id": "-A4Izia_6M681iXMk6MecGm7xEVNDu26vp1JGERJY7s"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/MzirCpMJJWVRdzqlury6-RgvmbWmC5SIs3SoEHKgONY.jpg",
+          "edited": false,
+          "link_flair_css_class": "",
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 73,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7ym656",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7ym656/did_someone_call_a_doctor/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519070395.0,
+          "url": "https://i.redd.it/r15u37f1t5h01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "did someone call a doctor?",
+          "created_utc": 1519041595.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 241,
+          "media": null,
+          "num_comments": 11,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7yqgty",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "wanyuenmei",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 39,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/pPcuGl0PPtsXqeVRoEOr5wUkKaF9bgoRspmtkP-oF08.jpg?fm=jpg&amp;s=d11b009305007e32c68e2b3a80488c2a",
+                  "width": 4856,
+                  "height": 3238
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/pPcuGl0PPtsXqeVRoEOr5wUkKaF9bgoRspmtkP-oF08.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=527b9d23ed99c37b54166725365f3f31",
+                    "width": 108,
+                    "height": 72
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/pPcuGl0PPtsXqeVRoEOr5wUkKaF9bgoRspmtkP-oF08.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=77476d2d912e5218e70dc16d3f14c05a",
+                    "width": 216,
+                    "height": 144
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/pPcuGl0PPtsXqeVRoEOr5wUkKaF9bgoRspmtkP-oF08.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=3d165729a5507549884a5a2471d480b6",
+                    "width": 320,
+                    "height": 213
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/pPcuGl0PPtsXqeVRoEOr5wUkKaF9bgoRspmtkP-oF08.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=174823cd4ef8114229bf55a7e1c81378",
+                    "width": 640,
+                    "height": 426
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/pPcuGl0PPtsXqeVRoEOr5wUkKaF9bgoRspmtkP-oF08.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=7c1b78d3478ec851e8bc7d5e2c1814ad",
+                    "width": 960,
+                    "height": 640
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/pPcuGl0PPtsXqeVRoEOr5wUkKaF9bgoRspmtkP-oF08.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=3c448218e9db729c16f05e3d67971bb1",
+                    "width": 1080,
+                    "height": 720
+                  }
+                ],
+                "variants": {},
+                "id": "6K3DvA4dq0Pn7ZpF4OASSStpHPPplnvDPoUFL2OrHTw"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/f0NM_XYyuhFgFxp0XJtQ1rYlGB2SC99iXwruf8jbPOw.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 93,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7yqgty",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7yqgty/rare_pupper_ig_momothedoodle_looking_at_the_camera/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519105485.0,
+          "url": "https://i.redd.it/zwguijzap8h01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Rare pupper (ig: @momo.the.doodle) looking at the camera",
+          "created_utc": 1519076685.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 39,
+          "media": null,
+          "num_comments": 1,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.imgur.com",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": null,
+          "id": "7youyb",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "5kEarPics",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 67,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/f31ymZA-3OYRTdReFP7fMtUdd_LqpX65UGcOROEDCLI.jpg?fm=jpg&amp;s=b0ab7e54b0a72f8cf6a1fff23c8b9c62",
+                  "width": 2419,
+                  "height": 3226
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/f31ymZA-3OYRTdReFP7fMtUdd_LqpX65UGcOROEDCLI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=efd8b4ce2c0994123555a9723bfc101e",
+                    "width": 108,
+                    "height": 144
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/f31ymZA-3OYRTdReFP7fMtUdd_LqpX65UGcOROEDCLI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=ebcb7e368539eca0150683e0f807214d",
+                    "width": 216,
+                    "height": 288
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/f31ymZA-3OYRTdReFP7fMtUdd_LqpX65UGcOROEDCLI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=3fb71a0e540b54e5aa5e5e28504d0f6b",
+                    "width": 320,
+                    "height": 426
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/f31ymZA-3OYRTdReFP7fMtUdd_LqpX65UGcOROEDCLI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=e36ff229183be728f8d35e42dd160050",
+                    "width": 640,
+                    "height": 853
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/f31ymZA-3OYRTdReFP7fMtUdd_LqpX65UGcOROEDCLI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=41640d7a51a9f2ddddadf72724da51c7",
+                    "width": 960,
+                    "height": 1280
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/f31ymZA-3OYRTdReFP7fMtUdd_LqpX65UGcOROEDCLI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=25d062b3150f4d80178f44056393348b",
+                    "width": 1080,
+                    "height": 1440
+                  }
+                ],
+                "variants": {},
+                "id": "YbTS5tgKaso9ZBcJYWqD_mpyXn5-GNACdeQxPS6rdIs"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/h0FLUpejvOFrF1jCSorY7a4f-w-ThxPKVDkkRtkQUiQ.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7youyb",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7youyb/golden_boi_does_a_steal/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519094019.0,
+          "url": "https://i.imgur.com/a7t24eD.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Golden Boi does a steal",
+          "created_utc": 1519065219.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 67,
+          "media": null,
+          "num_comments": 2,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.imgur.com",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": null,
+          "id": "7ypiwf",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "gumzilla",
+          "num_crossposts": 1,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 46,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/Ym9yQhPetjr5MxDbOSRCihd87K-JjtffJ6eFVmpJAxM.gif?fm=jpg&amp;s=b4c13caf9f9d2639454c7e18ffadbf0a",
+                  "width": 600,
+                  "height": 750
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/Ym9yQhPetjr5MxDbOSRCihd87K-JjtffJ6eFVmpJAxM.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=de8924ee2f29c0f7d0c1ff23dcc1546e",
+                    "width": 108,
+                    "height": 135
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/Ym9yQhPetjr5MxDbOSRCihd87K-JjtffJ6eFVmpJAxM.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=3112b8deaa4d5bd136467fe2ec943f3e",
+                    "width": 216,
+                    "height": 270
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/Ym9yQhPetjr5MxDbOSRCihd87K-JjtffJ6eFVmpJAxM.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=af806ba9e15052ed64d353b2b905c2c4",
+                    "width": 320,
+                    "height": 400
+                  }
+                ],
+                "variants": {
+                  "gif": {
+                    "source": {
+                      "url":
+                        "https://g.redditmedia.com/Ym9yQhPetjr5MxDbOSRCihd87K-JjtffJ6eFVmpJAxM.gif?s=f12730588aceda3e3e357ccfc419316a",
+                      "width": 600,
+                      "height": 750
+                    },
+                    "resolutions": [
+                      {
+                        "url":
+                          "https://g.redditmedia.com/Ym9yQhPetjr5MxDbOSRCihd87K-JjtffJ6eFVmpJAxM.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=ff8b0b8dd655e3ba33adea7752c58e43",
+                        "width": 108,
+                        "height": 135
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/Ym9yQhPetjr5MxDbOSRCihd87K-JjtffJ6eFVmpJAxM.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=afb513e0b94ac91fc839b8289c55f929",
+                        "width": 216,
+                        "height": 270
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/Ym9yQhPetjr5MxDbOSRCihd87K-JjtffJ6eFVmpJAxM.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=f9dca02edd26f446ae227e21e8393894",
+                        "width": 320,
+                        "height": 400
+                      }
+                    ]
+                  },
+                  "mp4": {
+                    "source": {
+                      "url":
+                        "https://g.redditmedia.com/Ym9yQhPetjr5MxDbOSRCihd87K-JjtffJ6eFVmpJAxM.gif?fm=mp4&amp;mp4-fragmented=false&amp;s=b46e703ebfd5a9f325b4251387b2ab3c",
+                      "width": 600,
+                      "height": 750
+                    },
+                    "resolutions": [
+                      {
+                        "url":
+                          "https://g.redditmedia.com/Ym9yQhPetjr5MxDbOSRCihd87K-JjtffJ6eFVmpJAxM.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=4083ffbf09ad5268c2f1f0f254d783ef",
+                        "width": 108,
+                        "height": 135
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/Ym9yQhPetjr5MxDbOSRCihd87K-JjtffJ6eFVmpJAxM.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=4ced226204acecdc10dd0f02ace9c2e1",
+                        "width": 216,
+                        "height": 270
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/Ym9yQhPetjr5MxDbOSRCihd87K-JjtffJ6eFVmpJAxM.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=354ed9e28696a81b55d9e80c3f7fb9c0",
+                        "width": 320,
+                        "height": 400
+                      }
+                    ]
+                  }
+                },
+                "id": "WpEsKAsd2AS3bQZYk_g_CVcQoXbVC9D_Ndq4U2JNWb4"
+              }
+            ],
+            "reddit_video_preview": {
+              "fallback_url": "https://v.redd.it/x0s63f5ug6h01/DASH_4_8_M",
+              "height": 720,
+              "width": 576,
+              "scrubber_media_url":
+                "https://v.redd.it/x0s63f5ug6h01/DASH_600_K",
+              "dash_url": "https://v.redd.it/x0s63f5ug6h01/DASHPlaylist.mpd",
+              "duration": 3,
+              "hls_url": "https://v.redd.it/x0s63f5ug6h01/HLSPlaylist.m3u8",
+              "is_gif": true,
+              "transcoding_status": "completed"
+            },
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/bUWUj5mckTnRf0NIb6nngulhF3J8rSLaXAWet5LQ8fA.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "link",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7ypiwf",
+          "spoiler": false,
+          "permalink": "/r/rarepuppers/comments/7ypiwf/officer_of_the_paw/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519098733.0,
+          "url": "https://i.imgur.com/t9GRrsB.gifv",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Officer of the Paw",
+          "created_utc": 1519069933.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 46,
+          "media": null,
+          "num_comments": 3,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7ynv7u",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "jaykayk",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 83,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/lGEUENSCjPh1JAwUoEkcOEdNvRhsk27QzP6UarwB_Wc.jpg?fm=jpg&amp;s=db2bb35a4519d884e395e36ff2a7503c",
+                  "width": 1012,
+                  "height": 1012
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/lGEUENSCjPh1JAwUoEkcOEdNvRhsk27QzP6UarwB_Wc.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=fcfb51d8d247ed07df230b3763a38ab8",
+                    "width": 108,
+                    "height": 108
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/lGEUENSCjPh1JAwUoEkcOEdNvRhsk27QzP6UarwB_Wc.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=65f4e528a5946bad54decd1efc9e7780",
+                    "width": 216,
+                    "height": 216
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/lGEUENSCjPh1JAwUoEkcOEdNvRhsk27QzP6UarwB_Wc.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=b22fff374b12c2289ba352e905a7333e",
+                    "width": 320,
+                    "height": 320
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/lGEUENSCjPh1JAwUoEkcOEdNvRhsk27QzP6UarwB_Wc.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=1efdbe703f73fc0bf4d9240b86b53d04",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/lGEUENSCjPh1JAwUoEkcOEdNvRhsk27QzP6UarwB_Wc.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=b4f2f7c440adee41be2e9c6e2273a89b",
+                    "width": 960,
+                    "height": 960
+                  }
+                ],
+                "variants": {},
+                "id": "md6L6kYn53isgLgw8_X22AGrCoZSTkLpTfAlB3Pxhwc"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://a.thumbs.redditmedia.com/MonAFx3LXTdSoJYYl5ToTVcTII_8Y3Q4ff5v-uwr_V0.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7ynv7u",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7ynv7u/vv_smol_girle_enjoying_winter/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519086710.0,
+          "url": "https://i.redd.it/1g0wwu0k57h01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Vv smol girle enjoying winter",
+          "created_utc": 1519057910.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 83,
+          "media": null,
+          "num_comments": 0,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7yqugp",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "jacobsgotthememes",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 24,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/NuezgM6uulRr3cVwvxaU4kGkEGPO3dXBpcKeflNHgkg.jpg?fm=jpg&amp;s=aaf7af4ff8c06678eccb7befd9bbd702",
+                  "width": 719,
+                  "height": 1280
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/NuezgM6uulRr3cVwvxaU4kGkEGPO3dXBpcKeflNHgkg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=02789226ecf1a09708aff2dc1a8a6ed1",
+                    "width": 108,
+                    "height": 192
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/NuezgM6uulRr3cVwvxaU4kGkEGPO3dXBpcKeflNHgkg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=3db69ca968951f88c34f6c04430bbb40",
+                    "width": 216,
+                    "height": 384
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/NuezgM6uulRr3cVwvxaU4kGkEGPO3dXBpcKeflNHgkg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=3b5e9875350f3747361656f436ba5575",
+                    "width": 320,
+                    "height": 569
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/NuezgM6uulRr3cVwvxaU4kGkEGPO3dXBpcKeflNHgkg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=a07e2d4851fa597bd03eb96ee1b80f7e",
+                    "width": 640,
+                    "height": 1139
+                  }
+                ],
+                "variants": {},
+                "id": "uZP1w3BA0Da0AFdaFHpSFTFiXmw1dqyqynaCljR5WXI"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/uJL8Z2-A1Myq_SSLf_LvC16go6-3D_BAqFbJ_-uEb5E.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7yqugp",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7yqugp/my_little_sister_is_always_sending_me_pics_of_our/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519108436.0,
+          "url": "https://i.redd.it/okqz5i06y8h01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title":
+            "My little sister is always sending me pics of our C O O L B O Y E while im off at college",
+          "created_utc": 1519079636.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 24,
+          "media": null,
+          "num_comments": 1,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7yop9i",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "PKMNinja1",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 40,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/fPoFZNOhFtww2R_SYrp1nN6LZP4_tu2wv5V8CCc7Z4s.jpg?fm=jpg&amp;s=a5a8e12e76a8f4a1a3046de70e7881e0",
+                  "width": 3024,
+                  "height": 4032
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/fPoFZNOhFtww2R_SYrp1nN6LZP4_tu2wv5V8CCc7Z4s.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=d240fea027c33a9c0a20fd2203071457",
+                    "width": 108,
+                    "height": 144
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/fPoFZNOhFtww2R_SYrp1nN6LZP4_tu2wv5V8CCc7Z4s.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=810f3b2185e6809782db5de499660ea7",
+                    "width": 216,
+                    "height": 288
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/fPoFZNOhFtww2R_SYrp1nN6LZP4_tu2wv5V8CCc7Z4s.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=de34141cd2271c5d02ebfab80fc0f2f5",
+                    "width": 320,
+                    "height": 426
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/fPoFZNOhFtww2R_SYrp1nN6LZP4_tu2wv5V8CCc7Z4s.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=0e9dfb12833bb4342612e7bba5d7334a",
+                    "width": 640,
+                    "height": 853
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/fPoFZNOhFtww2R_SYrp1nN6LZP4_tu2wv5V8CCc7Z4s.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=6418875fba269e3760c62dd53d8d513b",
+                    "width": 960,
+                    "height": 1280
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/fPoFZNOhFtww2R_SYrp1nN6LZP4_tu2wv5V8CCc7Z4s.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=04061ba024b344f7bd0504b1092f846e",
+                    "width": 1080,
+                    "height": 1440
+                  }
+                ],
+                "variants": {},
+                "id": "UgAmNy35KYS9H-2W78RKhiSXEGW70Puq_m9K9OHIZHM"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/v7wZppC-wkC-bferXirYcphXVQ-U4a832MyUsImKwHU.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7yop9i",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7yop9i/when_dad_takes_a_shower/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519092892.0,
+          "url": "https://i.redd.it/kofcbcmxn7h01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "When dad takes a shower",
+          "created_utc": 1519064092.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 40,
+          "media": null,
+          "num_comments": 0,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "imgur.com",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "link_flair_text": null,
+          "id": "7yri7x",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "KevlarYarmulke",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 14,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/LuJ2ZaqPYRKlYCYsR4F-wItJDJJTkyxOH5NKRQ_8rRk.gif?fm=jpg&amp;s=94b0c25dbe81ba321cc1920ca38bae9d",
+                  "width": 728,
+                  "height": 408
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LuJ2ZaqPYRKlYCYsR4F-wItJDJJTkyxOH5NKRQ_8rRk.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=a605267c44b10e8d80c4d0e416a1ecbb",
+                    "width": 108,
+                    "height": 60
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LuJ2ZaqPYRKlYCYsR4F-wItJDJJTkyxOH5NKRQ_8rRk.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=b6f0878ffce0ff4336daf4ded23d8632",
+                    "width": 216,
+                    "height": 121
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LuJ2ZaqPYRKlYCYsR4F-wItJDJJTkyxOH5NKRQ_8rRk.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=cbc37de316bd3ffb08f4fe5994a3c495",
+                    "width": 320,
+                    "height": 179
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/LuJ2ZaqPYRKlYCYsR4F-wItJDJJTkyxOH5NKRQ_8rRk.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=f101cfba622184f21faca90df3fe248d",
+                    "width": 640,
+                    "height": 358
+                  }
+                ],
+                "variants": {
+                  "gif": {
+                    "source": {
+                      "url":
+                        "https://g.redditmedia.com/LuJ2ZaqPYRKlYCYsR4F-wItJDJJTkyxOH5NKRQ_8rRk.gif?s=975140cdbe02538597a490f6c66abf46",
+                      "width": 728,
+                      "height": 408
+                    },
+                    "resolutions": [
+                      {
+                        "url":
+                          "https://g.redditmedia.com/LuJ2ZaqPYRKlYCYsR4F-wItJDJJTkyxOH5NKRQ_8rRk.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=bf70fdcdf205913d5c38c57eccadf939",
+                        "width": 108,
+                        "height": 60
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/LuJ2ZaqPYRKlYCYsR4F-wItJDJJTkyxOH5NKRQ_8rRk.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=08129faf4e6d3861f6dc4a3b09ad71ba",
+                        "width": 216,
+                        "height": 121
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/LuJ2ZaqPYRKlYCYsR4F-wItJDJJTkyxOH5NKRQ_8rRk.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=1eb7d60dade1bbff357018d056cadcb8",
+                        "width": 320,
+                        "height": 179
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/LuJ2ZaqPYRKlYCYsR4F-wItJDJJTkyxOH5NKRQ_8rRk.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=adbeecfa5791c5739d02800e2501799e",
+                        "width": 640,
+                        "height": 358
+                      }
+                    ]
+                  },
+                  "mp4": {
+                    "source": {
+                      "url":
+                        "https://g.redditmedia.com/LuJ2ZaqPYRKlYCYsR4F-wItJDJJTkyxOH5NKRQ_8rRk.gif?fm=mp4&amp;mp4-fragmented=false&amp;s=9fdce4ae88cd8314fc274c48f423cc15",
+                      "width": 728,
+                      "height": 408
+                    },
+                    "resolutions": [
+                      {
+                        "url":
+                          "https://g.redditmedia.com/LuJ2ZaqPYRKlYCYsR4F-wItJDJJTkyxOH5NKRQ_8rRk.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=063c9428a9fb98fdd6a0e12c14b72dc1",
+                        "width": 108,
+                        "height": 60
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/LuJ2ZaqPYRKlYCYsR4F-wItJDJJTkyxOH5NKRQ_8rRk.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=95af1fbd7dca7222865cc6d093de5f4a",
+                        "width": 216,
+                        "height": 121
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/LuJ2ZaqPYRKlYCYsR4F-wItJDJJTkyxOH5NKRQ_8rRk.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=b809538a547c3870e078f2291d501fdc",
+                        "width": 320,
+                        "height": 179
+                      },
+                      {
+                        "url":
+                          "https://g.redditmedia.com/LuJ2ZaqPYRKlYCYsR4F-wItJDJJTkyxOH5NKRQ_8rRk.gif?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=8c1533404ffad0bab3e1803eee604caf",
+                        "width": 640,
+                        "height": 358
+                      }
+                    ]
+                  }
+                },
+                "id": "q3uhSV6JX8xgKqGgEarVY9E6sEbxptKyjTQRXuA3K4c"
+              }
+            ],
+            "reddit_video_preview": {
+              "fallback_url": "https://v.redd.it/n8cmw2ole9h01/DASH_1_2_M",
+              "height": 360,
+              "width": 640,
+              "scrubber_media_url":
+                "https://v.redd.it/n8cmw2ole9h01/DASH_600_K",
+              "dash_url": "https://v.redd.it/n8cmw2ole9h01/DASHPlaylist.mpd",
+              "duration": 15,
+              "hls_url": "https://v.redd.it/n8cmw2ole9h01/HLSPlaylist.m3u8",
+              "is_gif": true,
+              "transcoding_status": "completed"
+            },
+            "enabled": true
+          },
+          "thumbnail":
+            "https://a.thumbs.redditmedia.com/E0k8gw1tbuO-yi2VGmo6eYwwNzSLDBaTFL9quBt15o0.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "link",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 78,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7yri7x",
+          "spoiler": false,
+          "permalink": "/r/rarepuppers/comments/7yri7x/cruising/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": true,
+          "created": 1519114006.0,
+          "url": "https://imgur.com/Ncjh31Q.gifv",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Cruising",
+          "created_utc": 1519085206.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 14,
+          "media": null,
+          "num_comments": 2,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "v.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": {
+            "reddit_video": {
+              "fallback_url": "https://v.redd.it/5hpxckzam8h01/DASH_4_8_M",
+              "height": 720,
+              "width": 720,
+              "scrubber_media_url":
+                "https://v.redd.it/5hpxckzam8h01/DASH_600_K",
+              "dash_url": "https://v.redd.it/5hpxckzam8h01/DASHPlaylist.mpd",
+              "duration": 20,
+              "hls_url": "https://v.redd.it/5hpxckzam8h01/HLSPlaylist.m3u8",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7yqc6y",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "amnsisc",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 20,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/nt5Zx1hUtqnegy7Exb2IiH4VfsZM4oJsBxyOAZYkZVc.png?fm=jpg&amp;s=11aed251aed9676f1cb2150094f3ac8d",
+                  "width": 720,
+                  "height": 720
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/nt5Zx1hUtqnegy7Exb2IiH4VfsZM4oJsBxyOAZYkZVc.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=7c2f97cbb7ec3a3b216c6e69a6b36221",
+                    "width": 108,
+                    "height": 108
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/nt5Zx1hUtqnegy7Exb2IiH4VfsZM4oJsBxyOAZYkZVc.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=45501804236cb0f48c5b2b7314f8965d",
+                    "width": 216,
+                    "height": 216
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/nt5Zx1hUtqnegy7Exb2IiH4VfsZM4oJsBxyOAZYkZVc.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=d1a49d4059a7c454b8ecdbc3d225ea5a",
+                    "width": 320,
+                    "height": 320
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/nt5Zx1hUtqnegy7Exb2IiH4VfsZM4oJsBxyOAZYkZVc.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=40970d6f048b0a200fc169d021dbf16a",
+                    "width": 640,
+                    "height": 640
+                  }
+                ],
+                "variants": {},
+                "id": "j-XRpf9kuvmpHrhAeSBigRsQGbg5pTDQDFc1AJPneh8"
+              }
+            ],
+            "enabled": false
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/wx4b3splb11TwnHQ06PAoxjNDo5Is2XQqzcyu8idODM.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "hosted:video",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7yqc6y",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7yqc6y/prototypeboye_does_a_vvv_hecking_good_delivery_of/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519104514.0,
+          "url": "https://v.redd.it/5hpxckzam8h01",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title":
+            "prototypeBOYE does a vvv hecking good delivery of mail via da CLOUD",
+          "created_utc": 1519075714.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 20,
+          "media": {
+            "reddit_video": {
+              "fallback_url": "https://v.redd.it/5hpxckzam8h01/DASH_4_8_M",
+              "height": 720,
+              "width": 720,
+              "scrubber_media_url":
+                "https://v.redd.it/5hpxckzam8h01/DASH_600_K",
+              "dash_url": "https://v.redd.it/5hpxckzam8h01/DASHPlaylist.mpd",
+              "duration": 20,
+              "hls_url": "https://v.redd.it/5hpxckzam8h01/HLSPlaylist.m3u8",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "num_comments": 1,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": true,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7ynq1x",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "twofortragedy",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 56,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/IOS23GKukO4X2xTH8mLWwiU05RoO7maV1P2a9FqF7fg.jpg?fm=jpg&amp;s=baa814fa7a57c709226dcdb5db3c88ee",
+                  "width": 960,
+                  "height": 720
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/IOS23GKukO4X2xTH8mLWwiU05RoO7maV1P2a9FqF7fg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=276a1c78a105e18b434099b94d1020c0",
+                    "width": 108,
+                    "height": 81
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/IOS23GKukO4X2xTH8mLWwiU05RoO7maV1P2a9FqF7fg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=03c44dafaac7b6faac139b24b067c785",
+                    "width": 216,
+                    "height": 162
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/IOS23GKukO4X2xTH8mLWwiU05RoO7maV1P2a9FqF7fg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=54f97d309c108d204cf710ef36b5ede1",
+                    "width": 320,
+                    "height": 240
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/IOS23GKukO4X2xTH8mLWwiU05RoO7maV1P2a9FqF7fg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=5004699393bc08e37b97900dbf2bd4e4",
+                    "width": 640,
+                    "height": 480
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/IOS23GKukO4X2xTH8mLWwiU05RoO7maV1P2a9FqF7fg.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=b49fe2044b0aa94133f098fa064930a1",
+                    "width": 960,
+                    "height": 720
+                  }
+                ],
+                "variants": {},
+                "id": "4oOGwFLA8rmxIXKXW57v2WtP7-g78_k9USD4I1i8PJk"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/ONuy8XQa_g-Hc59TF5aooBmGX_jQrYEorJ-kNKarJbM.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 105,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7ynq1x",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7ynq1x/pupper_landed_himself_in_doggo_jail_after_a_night/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519085668.0,
+          "url": "https://i.redd.it/q5mpu7qg27h01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title":
+            "Pupper landed himself in doggo jail after a night on the town",
+          "created_utc": 1519056868.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 56,
+          "media": null,
+          "num_comments": 4,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7ymy74",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "BakersGonBake",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 71,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/Ctx10WEqxCJ651CjhkinW0hjF28__LES3AOYdHBAE4M.jpg?fm=jpg&amp;s=bda211be3f32cdf8269c581ef29636cf",
+                  "width": 3024,
+                  "height": 4032
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/Ctx10WEqxCJ651CjhkinW0hjF28__LES3AOYdHBAE4M.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=23cc16b77c214fbb41ec4b3885b2be3d",
+                    "width": 108,
+                    "height": 144
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/Ctx10WEqxCJ651CjhkinW0hjF28__LES3AOYdHBAE4M.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=09fc8216cc4090f5432856df89532a74",
+                    "width": 216,
+                    "height": 288
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/Ctx10WEqxCJ651CjhkinW0hjF28__LES3AOYdHBAE4M.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=7102a4fbcc2004ca0194e446af1b3881",
+                    "width": 320,
+                    "height": 426
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/Ctx10WEqxCJ651CjhkinW0hjF28__LES3AOYdHBAE4M.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=157419d8bb5064756f3d20f67bfcd23e",
+                    "width": 640,
+                    "height": 853
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/Ctx10WEqxCJ651CjhkinW0hjF28__LES3AOYdHBAE4M.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=f2e9f8969497adf933cfe2f15e0d7040",
+                    "width": 960,
+                    "height": 1280
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/Ctx10WEqxCJ651CjhkinW0hjF28__LES3AOYdHBAE4M.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=6318aabf36abae155867150b87308c35",
+                    "width": 1080,
+                    "height": 1440
+                  }
+                ],
+                "variants": {},
+                "id": "907eWHKT5ln2iCMe6CQzN-4EOY3Y4LkGDv4hLfWUSzU"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/H8mVEQuMGL1IdrwRC7m9bV3Cs0ji7_mQr4PpdxuVbfI.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7ymy74",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7ymy74/the_abominable_snow_pupper/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": false,
+          "created": 1519078933.0,
+          "url": "https://i.redd.it/h6tfctcei6h01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "The Abominable Snow Pupper",
+          "created_utc": 1519050133.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 71,
+          "media": null,
+          "num_comments": 3,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.redd.it",
+          "approved_at_utc": null,
+          "mod_reason_by": null,
+          "banned_by": null,
+          "num_reports": null,
+          "subreddit_id": "t5_3b749",
+          "thumbnail_width": 140,
+          "subreddit": "rarepuppers",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": "confidence",
+          "user_reports": [],
+          "secure_media": null,
+          "is_reddit_media_domain": true,
+          "link_flair_text": null,
+          "id": "7yrnvn",
+          "banned_at_utc": null,
+          "mod_reason_title": null,
+          "view_count": null,
+          "archived": false,
+          "clicked": false,
+          "media_embed": {},
+          "report_reasons": null,
+          "author": "calebthegardner",
+          "num_crossposts": 0,
+          "saved": false,
+          "mod_reports": [],
+          "can_mod_post": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "score": 11,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url":
+                    "https://i.redditmedia.com/tkoV3O3g1-RDz2w8p-7CZey_oLG3zaG0knnE42LuB54.jpg?fm=jpg&amp;s=b0c996f742983bcd4d1f4e50e6088ed5",
+                  "width": 3024,
+                  "height": 4032
+                },
+                "resolutions": [
+                  {
+                    "url":
+                      "https://i.redditmedia.com/tkoV3O3g1-RDz2w8p-7CZey_oLG3zaG0knnE42LuB54.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=jpg&amp;s=b6e8d4b2235b986a6335e2b0464f50c1",
+                    "width": 108,
+                    "height": 144
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/tkoV3O3g1-RDz2w8p-7CZey_oLG3zaG0knnE42LuB54.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=jpg&amp;s=328ac4c3938a24e6e3ba714128015252",
+                    "width": 216,
+                    "height": 288
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/tkoV3O3g1-RDz2w8p-7CZey_oLG3zaG0knnE42LuB54.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=jpg&amp;s=562759cfc4c4b3f83c23acb3e2923602",
+                    "width": 320,
+                    "height": 426
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/tkoV3O3g1-RDz2w8p-7CZey_oLG3zaG0knnE42LuB54.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=jpg&amp;s=6096849a6893fb3d82a8a6ac2fe38ea1",
+                    "width": 640,
+                    "height": 853
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/tkoV3O3g1-RDz2w8p-7CZey_oLG3zaG0knnE42LuB54.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=jpg&amp;s=8921567d111f4649f5b7c95ee4b88a4d",
+                    "width": 960,
+                    "height": 1280
+                  },
+                  {
+                    "url":
+                      "https://i.redditmedia.com/tkoV3O3g1-RDz2w8p-7CZey_oLG3zaG0knnE42LuB54.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=jpg&amp;s=d2219acc7c0cbf88cea93edfa37b439f",
+                    "width": 1080,
+                    "height": 1440
+                  }
+                ],
+                "variants": {},
+                "id": "Z_hTVnj8Pcqey0tlYLfOlHXRfJRKhVtqaykZWxSJvbE"
+              }
+            ],
+            "enabled": true
+          },
+          "thumbnail":
+            "https://b.thumbs.redditmedia.com/Y4M7paTLPeGmQ1rbp0Zs6ecuT5mxtDr8ItRkZU5NhMI.jpg",
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "contest_mode": false,
+          "gilded": 0,
+          "downs": 0,
+          "brand_safe": true,
+          "secure_media_embed": {},
+          "removal_reason": null,
+          "post_hint": "image",
+          "author_flair_text": null,
+          "stickied": false,
+          "can_gild": true,
+          "thumbnail_height": 140,
+          "parent_whitelist_status": "all_ads",
+          "name": "t3_7yrnvn",
+          "spoiler": false,
+          "permalink":
+            "/r/rarepuppers/comments/7yrnvn/wavy_pup_happy_for_pets/",
+          "subreddit_type": "public",
+          "locked": false,
+          "hide_score": true,
+          "created": 1519115268.0,
+          "url": "https://i.redd.it/5am5gkxfi9h01.jpg",
+          "whitelist_status": "all_ads",
+          "quarantine": false,
+          "title": "Wavy pup happy for pets",
+          "created_utc": 1519086468.0,
+          "subreddit_name_prefixed": "r/rarepuppers",
+          "ups": 11,
+          "media": null,
+          "num_comments": 0,
+          "is_self": false,
+          "visited": false,
+          "mod_note": null,
+          "is_video": false,
+          "distinguished": null
+        }
+      }
+    ],
+    "before": null
+  }
+}

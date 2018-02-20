@@ -29,6 +29,11 @@ app.get("/htmlsample", (req, res) => {
   res.sendfile("./index.html");
 });
 
+// if they try to access another page, send them a 404 error
+app.use((req, res) => {
+  res.status(404).sendfile("./404.html");
+});
+
 // now that we've defined what should happen when people try to access different
 // parts of the server, this code actually gets the server up and running on our
 // machine

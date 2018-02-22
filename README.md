@@ -1,5 +1,8 @@
 # Source Spring 2018
 
+## Other Materials
+Lecture slides can be found in this following [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1GBf37wj7UPT4AqWb8WlWnHR1nsKwTn2c): 
+
 ## Description
 Source is a (relatively) new HackCville program geared towards learning some of the fundamentals of software engineering, particularly with the backend.  Students will learn the basics behind writing server-side code, working with pre-existing REST API’s (and potentially building their own), and using “the Cloud” as both a database and a place to run their “server-side” code.  In addition, a wide variety of elective topics will be briefly touched on, including the popular front-end framework React.js, functional programming languages such as Clojure, and writing/deploying an Alexa Skill.
 

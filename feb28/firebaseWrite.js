@@ -27,7 +27,7 @@ function updateUser(user) {
     .ref("/users/" + user)
     .set(userObject)
     .then(() => {
-      console.log("Updated successfully!");
+      console.log("Updated successfully! User " + user + " was added.");
     })
     .catch(error => {
       console.log("ERROR: " + error);

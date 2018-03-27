@@ -34,4 +34,4 @@ function updateUser(user) {
     });
 }
 
-updateUser("Taylor");
+updateUser("Puppies");

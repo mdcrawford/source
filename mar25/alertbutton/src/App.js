@@ -1,10 +1,14 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
 import AlertButton from "./AlertButton.js";
+import QuoteGenerator from "./QuoteGenerator.js";
 import "./App.css";
 
 class App extends Component {
   render() {
+    let display = "Fuck Dat Sheeeeet";
+    let quoteArray = ["first", "second", "third"];
+
     return (
       <div className="App">
         <header className="App-header">
@@ -15,7 +19,8 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
 
-        <AlertButton displayText="Fuck Dat Sheeeeet" />
+        <AlertButton displayText={display} />
+        <QuoteGenerator quotes={quoteArray} />
       </div>
     );
   }

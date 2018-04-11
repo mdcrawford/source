@@ -7,6 +7,7 @@ import React, { Component } from "react";
 
 export default class ButtonCounter extends Component {
   updateCount() {
+    // ither code
     let newCount = this.props.currentCount + 1;
     this.props.updateParent(newCount);
   }

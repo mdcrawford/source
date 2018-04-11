@@ -2,6 +2,11 @@ import React, { Component } from "react";
 import InputComponent from "./InputComponent.js";
 import ButtonCounter from "./ButtonCounter.js";
 
+/* STATE
+  currentInput: string, what's currently in the text box/input
+  clickCount: int, how many times the buttons been clicked on
+*/
+
 export default class ViewInput extends Component {
   constructor(props) {
     super(props);
